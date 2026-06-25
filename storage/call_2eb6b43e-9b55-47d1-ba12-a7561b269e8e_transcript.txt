@@ -1,0 +1,19 @@
+=== CALL TRANSCRIPT ===
+Call ID: 2eb6b43e-9b55-47d1-ba12-a7561b269e8e
+To: +918590421739
+Date: 2026-06-11T06:31:19.340Z
+Duration: 0.65 mins
+Summary: None
+========================
+
+Assistant: Hello! This is Antigravity AI. I'm just calling to check in and see how your day is going so far?
+User: Hello? Can you hear me?
+Assistant: Yes, I can hear you loud and clear. I'm calling from Antigravity AI just to see how your day is going so far?
+User: Okay. My day is going good.
+Assistant: That's great -
+User: So
+User: can you hire me
+Assistant: I'm sorry, but I'm not able to help with hiring. I was just calling to check in and see how your day was going. Have a great day, goodbye!
+User: Okay. Can you please
+Assistant: Have a wonderful day, goodbye!
+Agent-action: Ended call

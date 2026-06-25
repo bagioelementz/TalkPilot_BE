@@ -1,0 +1,18 @@
+=== CALL TRANSCRIPT ===
+Call ID: 6d005ce4-5a29-48ba-8601-ee12b64ef624
+To: +917094097739
+Date: 2026-06-24T05:27:14.310Z
+Duration: 1.15 mins
+Summary: The caller, Avira from TaskMeister, reached out to a user regarding a plumbing service request in Berlin to fix a leaking kitchen pipe. The service was needed by next Monday at 10:00 AM with an estimated budget of 600 EUR. However, the user declined the job opportunity, and the call was ended shortly after.
+========================
+
+Assistant: Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schonen Tag. Ich rufe bezuglich einer Klempner-Serviceanfrage in Berlin an. Hatten Sie kurz einen Moment Zeit?
+User: Speaking English.
+Assistant: Hello! This is Avira from TaskMeister. I hope you're having a good day. I'm calling regarding a plumbing service request in Berlin. Do you have a moment to speak?
+Assistant: Hello? Are you there?
+User: Yeah, I am there.
+Assistant: Great. Our client, Sam, needs help with a leaking pipe in their kitchen. The service is needed by next Monday at 10:00 AM, and the estimated budget is around 600 EUR. Are you available and interested in taking the job?
+User: No, no.
+Assistant: Okay, no problem. Thank you for your time and have a nice day. Goodbye.
+Assistant: Thank you for your time and have a nice day. Goodbye.
+Agent-action: Ended call

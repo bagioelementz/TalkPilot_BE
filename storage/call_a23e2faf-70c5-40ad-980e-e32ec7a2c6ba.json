@@ -1,0 +1,111 @@
+{
+    "call_id": "a23e2faf-70c5-40ad-980e-e32ec7a2c6ba",
+    "c_id": "a23e2faf-70c5-40ad-980e-e32ec7a2c6ba",
+    "created_at": "2026-06-24T05:04:08.467Z",
+    "updated_at": "2026-06-24T05:05:09.191Z",
+    "call_length": 0.766666666666667,
+    "to": "+917094097739",
+    "from": "+14786661464",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Tuesday, June 23, 2026 10:04 PM",
+        "now_utc": "Wednesday, June 24, 2026 5:04 AM",
+        "short_from": "4786661464",
+        "short_to": "7094097739",
+        "from": "+14786661464",
+        "to": "+917094097739",
+        "call_id": "a23e2faf-70c5-40ad-980e-e32ec7a2c6ba",
+        "phone_number": "+917094097739",
+        "country": "IN",
+        "language": "Fluent",
+        "timestamp": "2026-06-23T22:04:16-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-24T05:04:15.000Z",
+    "record": false,
+    "recording_url": null,
+    "summary": "The call was between a customer service representative from TaskMeister, Avira, and a user. Avira contacted the user regarding a plumbing service request in Berlin, but the user responded in Spanish, which Avira couldn't understand. Avira attempted to clarify the language barrier, offering assistance in German or English, but the user continued to speak in Spanish, leading to the end of the call.",
+    "local_dialing": false,
+    "price": 0.108,
+    "call_ended_by": "ASSISTANT",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schonen Tag. Ich rufe bezuglich einer Klempner-Serviceanfrage in Berlin an. Hatten Sie kurz einen Moment Zeit? \n user: Pero ahorita, para que tenga \n user: Bueno, pues voy a hacer un vídeo. \n user: Bueno, vamos a ver si hay algo que nunca hemos hablado. \n assistant: I apologize, but I'm having trouble understanding. If you speak German or English, I can assist you with a plumbing job in Berlin. Otherwise, thank you for your time. Goodbye. \n user: ¿Qué es esto? \n agent-action: Ended call \n assistant: Thank you for your time. Goodbye. \n ",
+    "transcripts": [
+        {
+            "id": 773211646,
+            "user": "assistant",
+            "text": "Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schonen Tag. Ich rufe bezuglich einer Klempner-Serviceanfrage in Berlin an. Hatten Sie kurz einen Moment Zeit?",
+            "created_at": "2026-06-24T05:04:24.885Z"
+        },
+        {
+            "id": 773211688,
+            "user": "user",
+            "text": "Pero ahorita, para que tenga",
+            "created_at": "2026-06-24T05:04:28.324Z"
+        },
+        {
+            "id": 773211741,
+            "user": "user",
+            "text": "Bueno, pues voy a hacer un vídeo.",
+            "created_at": "2026-06-24T05:04:33.838Z"
+        },
+        {
+            "id": 773211802,
+            "user": "user",
+            "text": "Bueno, vamos a ver si hay algo que nunca hemos hablado.",
+            "created_at": "2026-06-24T05:04:38.338Z"
+        },
+        {
+            "id": 773211916,
+            "user": "assistant",
+            "text": "I apologize, but I'm having trouble understanding. If you speak German or English, I can assist you with a plumbing job in Berlin. Otherwise, thank you for your time. Goodbye.",
+            "created_at": "2026-06-24T05:04:49.715Z"
+        },
+        {
+            "id": 773212014,
+            "user": "user",
+            "text": "¿Qué es esto?",
+            "created_at": "2026-06-24T05:04:58.563Z"
+        },
+        {
+            "id": 773212034,
+            "user": "agent-action",
+            "text": "Ended call",
+            "created_at": "2026-06-24T05:05:00.678Z"
+        },
+        {
+            "id": 773212035,
+            "user": "assistant",
+            "text": "Thank you for your time. Goodbye.",
+            "created_at": "2026-06-24T05:05:00.678Z"
+        }
+    ],
+    "corrected_duration": "46",
+    "end_at": "2026-06-24T05:05:01.000Z",
+    "dispositions": [],
+    "voice_id": "a24c43d3-f448-4fea-a498-a9287f7cabf3"
+}

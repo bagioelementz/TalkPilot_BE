@@ -1,0 +1,22 @@
+=== CALL TRANSCRIPT ===
+Call ID: d823ae92-7451-4f52-a641-6010276929a1
+To: +918590421739
+Date: 2026-06-11T11:31:37.858Z
+Duration: None mins
+Summary: None
+========================
+
+Assistant: Hello, I'm Avira, the AI conversation agent from Task Meister.
+User: Okay, Avira. Why did you call me?
+Assistant: I'm calling to help you find a plumber in Berlin. I understand you need one by tomorrow and are willing to pay six hundred euros. Is that correct?
+User: Yeah. Okay. Fine. It's fine for me. Thank you for calling me.
+Assistant: Great. To get started, could you please tell me your name and the specific plumbing issue you're having?
+User: Okay. I'm having a, like, a bathroom leakage. So it's fine. Six hundred euros is fine. Thank you. Can we appoint it by next Monday?
+Assistant: I thought you needed the plumber by tomorrow? You just mentioned next Monday. Which date would you prefer?
+User: Okay. Fine. Thank you. It's it's oh, it's that's enough.
+Assistant: Okay, just to confirm, you need a plumber for a bathroom leakage in Berlin by tomorrow, Friday June twelfth, for six hundred euros. Is that right?
+User: Yes. Yes. That's fine. That's fine for me.
+Assistant: Alright. I have your request. I'll look for a plumber in Berlin who can handle a bathroom leakage tomorrow for six hundred euros. We'll be in touch shortly to confirm the details. Have a good day.
+User: Okay.
+Agent-action: Ended call
+Assistant: Goodbye.

@@ -1,0 +1,17 @@
+=== CALL TRANSCRIPT ===
+Call ID: a106ba7c-15bb-413b-b7dd-bd4c12ff8da7
+To: +919061975879
+Date: 2026-06-23T04:39:32.334Z
+Duration: None mins
+Summary: None
+========================
+
+Assistant: Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schönen Tag. Ich rufe bezüglich einer Klempner-Serviceanfrage in Berlin an. Hätten Sie kurz einen Moment Zeit?
+User: Okay, speak in English.
+Assistant: Of course. Our client, Sam, needs help with a leaking pipe in their kitchen. The service is needed by next Monday at 10:00 AM, and the estimated budget is around six hundred euros. Would you be available and interested in taking on this job?
+User: Okay, on whose behalf are you calling?
+Assistant: I am calling on behalf of TaskMeister. We are connecting service providers with clients who need help.
+User: Okay, but, uh, €600 is very low. Can you, uh, make the deal for €700?
+Assistant: I understand your concern. However, the client's estimated budget is around six hundred euros. Would you still be interested in taking the job at that rate?
+User: No, but I'll be interested if it's €700. So can you speak with your owner and, uh, change it to that budget? If they are available for that, then I am okay.
+Assistant: I'm sorry, but I don't have the authority to change the client's budget. Since you aren't available at the current rate, I'll have to look for another provider. Thank you for your time and have a nice day. Goodbye.

@@ -1,0 +1,118 @@
+{
+    "call_id": "c8be175a-dfe2-425a-8473-bd00af81bcc5",
+    "c_id": "c8be175a-dfe2-425a-8473-bd00af81bcc5",
+    "created_at": "2026-06-11T11:13:59.536Z",
+    "updated_at": "2026-06-11T11:14:39.400Z",
+    "call_length": 0.35,
+    "to": "+919061975879",
+    "from": "+14302628007",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Thursday, June 11, 2026 4:14 AM",
+        "now_utc": "Thursday, June 11, 2026 11:14 AM",
+        "short_from": "4302628007",
+        "short_to": "9061975879",
+        "from": "+14302628007",
+        "to": "+919061975879",
+        "call_id": "c8be175a-dfe2-425a-8473-bd00af81bcc5",
+        "phone_number": "+919061975879",
+        "country": "IN",
+        "state": "Kerala",
+        "language": "English",
+        "timestamp": "2026-06-11T04:14:12-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-11T11:14:11.000Z",
+    "record": false,
+    "recording_url": null,
+    "summary": "The caller, Rishi, received a brief message from Avira, the AI conversation agent, instructing him to go home, after which the call was promptly ended.",
+    "local_dialing": false,
+    "price": 0.049,
+    "call_ended_by": "ASSISTANT",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Hello, I'm Avira, the AI conversation agent from Task Meister. \n user: Hello? \n assistant: Hi, is this Rishi? \n user: Yes? \n assistant: I was told to tell you to go home. \n user: Okay. \n agent-action: Ended call \n assistant: Alright, take care. \n agent-action: Ended call \n ",
+    "transcripts": [
+        {
+            "id": 748059677,
+            "user": "assistant",
+            "text": "Hello, I'm Avira, the AI conversation agent from Task Meister.",
+            "created_at": "2026-06-11T11:14:13.580Z"
+        },
+        {
+            "id": 748059730,
+            "user": "user",
+            "text": "Hello?",
+            "created_at": "2026-06-11T11:14:20.049Z"
+        },
+        {
+            "id": 748059741,
+            "user": "assistant",
+            "text": "Hi, is this Rishi?",
+            "created_at": "2026-06-11T11:14:21.713Z"
+        },
+        {
+            "id": 748059760,
+            "user": "user",
+            "text": "Yes?",
+            "created_at": "2026-06-11T11:14:24.420Z"
+        },
+        {
+            "id": 748059779,
+            "user": "assistant",
+            "text": "I was told to tell you to go home.",
+            "created_at": "2026-06-11T11:14:26.651Z"
+        },
+        {
+            "id": 748059809,
+            "user": "user",
+            "text": "Okay.",
+            "created_at": "2026-06-11T11:14:30.607Z"
+        },
+        {
+            "id": 748059824,
+            "user": "agent-action",
+            "text": "Ended call",
+            "created_at": "2026-06-11T11:14:31.985Z"
+        },
+        {
+            "id": 748059825,
+            "user": "assistant",
+            "text": "Alright, take care.",
+            "created_at": "2026-06-11T11:14:31.985Z"
+        },
+        {
+            "id": 748059826,
+            "user": "agent-action",
+            "text": "Ended call",
+            "created_at": "2026-06-11T11:14:32.009Z"
+        }
+    ],
+    "corrected_duration": "21",
+    "end_at": "2026-06-11T11:14:32.000Z",
+    "dispositions": [],
+    "voice_id": "2cc39317-4835-4cbc-b625-fbf6b7f5c5cb"
+}

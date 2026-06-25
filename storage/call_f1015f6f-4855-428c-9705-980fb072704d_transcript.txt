@@ -1,0 +1,15 @@
+=== CALL TRANSCRIPT ===
+Call ID: f1015f6f-4855-428c-9705-980fb072704d
+To: +919061975879
+Date: 2026-06-22T10:40:46.531Z
+Duration: 0.466666666666667 mins
+Summary: Der Anrufer, Avira von TaskMeister, kontaktierte den Nutzer, um ihn über eine Gelegenheit zu informieren, als Klempner für einen Kunden in Berlin tätig zu werden, der Hilfe bei der Reparatur eines undichten Rohrs benötigt. Der Nutzer unterbrach jedoch mehrmals und es konnte keine abschließende Vereinbarung oder weitere Details besprochen werden.
+========================
+
+Assistant: Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schönen Tag. Hätten Sie kurz einen Moment Zeit?
+User: Hallo?
+Assistant: Hallo! Ich rufe Sie im Auftrag von TaskMeister an. Ein Kunde benötigt einen Klempner in-
+User: Damit
+Assistant: Entschu-
+User: keine
+Assistant: Entschuldigung, ich rufe Sie an, weil ein Kunde einen Klempner in Berlin für ein undichtes Rohr benötigt.

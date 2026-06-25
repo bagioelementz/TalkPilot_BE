@@ -1,0 +1,111 @@
+{
+    "call_id": "a3514c42-7c19-4698-b62e-c12cc2e85113",
+    "c_id": "a3514c42-7c19-4698-b62e-c12cc2e85113",
+    "created_at": "2026-06-11T10:58:47.657Z",
+    "updated_at": "2026-06-11T10:59:35.499Z",
+    "call_length": 0.55,
+    "to": "+918590421739",
+    "from": "+14057167725",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Thursday, June 11, 2026 3:58 AM",
+        "now_utc": "Thursday, June 11, 2026 10:58 AM",
+        "short_from": "4057167725",
+        "short_to": "8590421739",
+        "from": "+14057167725",
+        "to": "+918590421739",
+        "call_id": "a3514c42-7c19-4698-b62e-c12cc2e85113",
+        "phone_number": "+918590421739",
+        "country": "IN",
+        "language": "English",
+        "timestamp": "2026-06-11T03:58:55-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-11T10:58:54.000Z",
+    "record": false,
+    "recording_url": null,
+    "summary": "The user, Mohanlal, received a call from Avira, an AI conversation agent, who offered to assist in finding a plumber in Berlin for the next day for a payment of 500 euros. However, Mohanlal declined the assistance and ended the call, despite initially confirming the details. The reason for declining the help is unclear.",
+    "local_dialing": false,
+    "price": 0.078,
+    "call_ended_by": "ASSISTANT",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Hello, I'm Avira, the AI conversation agent from Task Meister. I'm here to check in and see how your day is going so far. \n user: Okay. Why did you call me? \n assistant: I'm calling to help you find a plumber in Berlin for tomorrow. I see you're willing to pay five hundred euros for the service. Is that correct? \n user: Yeah. It's correct. But do you know my name? \n assistant: Yes, your name is Mohanlal. I'll get started on finding a plumber for you in Berlin for tomorrow. \n user: Okay. Okay. No need. No need. Thank you. Bye. \n assistant: You're welcome. Goodbye. \n agent-action: Ended call \n ",
+    "transcripts": [
+        {
+            "id": 748052108,
+            "user": "assistant",
+            "text": "Hello, I'm Avira, the AI conversation agent from Task Meister. I'm here to check in and see how your day is going so far.",
+            "created_at": "2026-06-11T10:58:57.065Z"
+        },
+        {
+            "id": 748052154,
+            "user": "user",
+            "text": "Okay. Why did you call me?",
+            "created_at": "2026-06-11T10:59:05.750Z"
+        },
+        {
+            "id": 748052171,
+            "user": "assistant",
+            "text": "I'm calling to help you find a plumber in Berlin for tomorrow. I see you're willing to pay five hundred euros for the service. Is that correct?",
+            "created_at": "2026-06-11T10:59:09.006Z"
+        },
+        {
+            "id": 748052207,
+            "user": "user",
+            "text": "Yeah. It's correct. But do you know my name?",
+            "created_at": "2026-06-11T10:59:16.979Z"
+        },
+        {
+            "id": 748052220,
+            "user": "assistant",
+            "text": "Yes, your name is Mohanlal. I'll get started on finding a plumber for you in Berlin for tomorrow.",
+            "created_at": "2026-06-11T10:59:18.756Z"
+        },
+        {
+            "id": 748052258,
+            "user": "user",
+            "text": "Okay. Okay. No need. No need. Thank you. Bye.",
+            "created_at": "2026-06-11T10:59:25.755Z"
+        },
+        {
+            "id": 748052262,
+            "user": "assistant",
+            "text": "You're welcome. Goodbye.",
+            "created_at": "2026-06-11T10:59:27.314Z"
+        },
+        {
+            "id": 748052263,
+            "user": "agent-action",
+            "text": "Ended call",
+            "created_at": "2026-06-11T10:59:27.314Z"
+        }
+    ],
+    "corrected_duration": "33",
+    "end_at": "2026-06-11T10:59:27.000Z",
+    "dispositions": [],
+    "voice_id": "2cc39317-4835-4cbc-b625-fbf6b7f5c5cb"
+}

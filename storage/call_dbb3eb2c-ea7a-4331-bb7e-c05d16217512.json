@@ -1,0 +1,136 @@
+{
+    "call_id": "dbb3eb2c-ea7a-4331-bb7e-c05d16217512",
+    "c_id": "dbb3eb2c-ea7a-4331-bb7e-c05d16217512",
+    "created_at": "2026-06-19T07:17:54.391Z",
+    "updated_at": "2026-06-19T07:20:07.760Z",
+    "call_length": 1.71666666666667,
+    "to": "+919567398542",
+    "from": "+15672219177",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Friday, June 19, 2026 12:18 AM",
+        "now_utc": "Friday, June 19, 2026 7:18 AM",
+        "short_from": "5672219177",
+        "short_to": "9567398542",
+        "from": "+15672219177",
+        "to": "+919567398542",
+        "call_id": "dbb3eb2c-ea7a-4331-bb7e-c05d16217512",
+        "phone_number": "+919567398542",
+        "country": "IN",
+        "state": "Kerala",
+        "language": "English",
+        "timestamp": "2026-06-19T00:18:17-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-19T07:18:16.000Z",
+    "record": false,
+    "recording_url": null,
+    "summary": "The caller, a representative from TaskMeister, contacted a user regarding a plumbing service request from a client named Jyothish, who needs assistance with a leaking pipe in his kitchen by next Monday at 10 AM with a budget of €600. However, the user is only available if the budget is increased to €700. The representative agreed to pass along the user's requested rate to the client and will follow up with the user once a decision is made. The call ended with the understanding that the user will take on the job if the client agrees to the €700 rate.",
+    "local_dialing": false,
+    "price": 0.241,
+    "call_ended_by": "ASSISTANT",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "user: Hello?  \n assistant: Hello, I hope you're doing well today. This is Avira calling from TaskMeister. Do you have a quick moment to speak with me? \n user: Yes. \n assistant: Thank you. I'm calling regarding a plumbing service request. Our client, Jyothish, needs assistance with a leaking pipe in his kitchen. The service is required by next Monday morning, at ten o clock A M. The client has indicated a budget of approximately six hundred Euros. I wanted to check whether you might be available for this job. \n user: Yeah. I'm available, but I need like, seven hundred euros I don't I am not ready for six hundred. Can you do that for me? \n assistant: That's helpful, thank you. Could you tell me a little about your availability and whether you would be interested in taking on this work? \n user: Yeah. But I am only I'm only working for seven euros. Six hundred is very low for me. \n assistant: I understand completely. Six hundred Euros is the client's current budget, but I can certainly pass along your rate of seven hundred Euros to them and see if they are willing to adjust. Would you like me to do that? \n user: Yes. If they confirm seven hundred euros, then I can come. \n assistant: That sounds fair. I will speak with the client about the adjustment to seven hundred Euros and get back to you as soon as possible. Thank you very much for your time today. It was a pleasure speaking with you. I sincerely appreciate your time and consideration. Have a wonderful day ahead. Goodbye. \n assistant: Goodbye. \n agent-action: Ended call \n ",
+    "transcripts": [
+        {
+            "id": 764147359,
+            "user": "user",
+            "text": "Hello? ",
+            "created_at": "2026-06-19T07:18:19.640Z"
+        },
+        {
+            "id": 764147362,
+            "user": "assistant",
+            "text": "Hello, I hope you're doing well today. This is Avira calling from TaskMeister. Do you have a quick moment to speak with me?",
+            "created_at": "2026-06-19T07:18:19.862Z"
+        },
+        {
+            "id": 764147431,
+            "user": "user",
+            "text": "Yes.",
+            "created_at": "2026-06-19T07:18:28.245Z"
+        },
+        {
+            "id": 764147463,
+            "user": "assistant",
+            "text": "Thank you. I'm calling regarding a plumbing service request. Our client, Jyothish, needs assistance with a leaking pipe in his kitchen. The service is required by next Monday morning, at ten o clock A M. The client has indicated a budget of approximately six hundred Euros. I wanted to check whether you might be available for this job.",
+            "created_at": "2026-06-19T07:18:31.682Z"
+        },
+        {
+            "id": 764147723,
+            "user": "user",
+            "text": "Yeah. I'm available, but I need like, seven hundred euros I don't I am not ready for six hundred. Can you do that for me?",
+            "created_at": "2026-06-19T07:19:00.740Z"
+        },
+        {
+            "id": 764147733,
+            "user": "assistant",
+            "text": "That's helpful, thank you. Could you tell me a little about your availability and whether you would be interested in taking on this work?",
+            "created_at": "2026-06-19T07:19:01.990Z"
+        },
+        {
+            "id": 764147859,
+            "user": "user",
+            "text": "Yeah. But I am only I'm only working for seven euros. Six hundred is very low for me.",
+            "created_at": "2026-06-19T07:19:19.392Z"
+        },
+        {
+            "id": 764147870,
+            "user": "assistant",
+            "text": "I understand completely. Six hundred Euros is the client's current budget, but I can certainly pass along your rate of seven hundred Euros to them and see if they are willing to adjust. Would you like me to do that?",
+            "created_at": "2026-06-19T07:19:20.927Z"
+        },
+        {
+            "id": 764147973,
+            "user": "user",
+            "text": "Yes. If they confirm seven hundred euros, then I can come.",
+            "created_at": "2026-06-19T07:19:35.614Z"
+        },
+        {
+            "id": 764147988,
+            "user": "assistant",
+            "text": "That sounds fair. I will speak with the client about the adjustment to seven hundred Euros and get back to you as soon as possible. Thank you very much for your time today. It was a pleasure speaking with you. I sincerely appreciate your time and consideration. Have a wonderful day ahead. Goodbye.",
+            "created_at": "2026-06-19T07:19:36.999Z"
+        },
+        {
+            "id": 764148277,
+            "user": "assistant",
+            "text": "Goodbye.",
+            "created_at": "2026-06-19T07:19:59.373Z"
+        },
+        {
+            "id": 764148276,
+            "user": "agent-action",
+            "text": "Ended call",
+            "created_at": "2026-06-19T07:19:59.374Z"
+        }
+    ],
+    "corrected_duration": "103",
+    "end_at": "2026-06-19T07:19:59.000Z",
+    "dispositions": [],
+    "voice_id": "2cc39317-4835-4cbc-b625-fbf6b7f5c5cb"
+}

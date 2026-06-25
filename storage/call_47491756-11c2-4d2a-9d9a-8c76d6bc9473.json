@@ -1,0 +1,148 @@
+{
+    "call_id": "47491756-11c2-4d2a-9d9a-8c76d6bc9473",
+    "c_id": "47491756-11c2-4d2a-9d9a-8c76d6bc9473",
+    "created_at": "2026-06-16T11:25:13.028Z",
+    "updated_at": "2026-06-16T11:26:50.636Z",
+    "call_length": null,
+    "to": "+919061975879",
+    "from": "+15076072903",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Tuesday, June 16, 2026 4:25 AM",
+        "now_utc": "Tuesday, June 16, 2026 11:25 AM",
+        "short_from": "5076072903",
+        "short_to": "9061975879",
+        "from": "+15076072903",
+        "to": "+919061975879",
+        "call_id": "47491756-11c2-4d2a-9d9a-8c76d6bc9473",
+        "phone_number": "+919061975879",
+        "country": "IN",
+        "state": "Kerala",
+        "language": "English",
+        "timestamp": "2026-06-16T04:25:26-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-16T11:25:26.925Z",
+    "record": false,
+    "recording_url": null,
+    "summary": null,
+    "local_dialing": false,
+    "price": 0,
+    "call_ended_by": "ASSISTANT",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Hello, I'm Avira, the AI conversation agent from Task Meister. \n user: Okay. Why did you call me? \n assistant: I'm calling on behalf of a client named Ronaldo. He has a toilet pipe leakage that needs to be fixed at his location in Berlin. He needs the service done by tomorrow at ten A M, and his budget is under six hundred euros. Are you available to take this job? \n user: Yeah. I am available, but six hundred euros is too low. I need it by minimum thousand euros. \n assistant: I understand, but six hundred is the maximum budget for this specific job. Is there any way you can work within that range? \n user: Can you please speak with Ronaldo and change the budget? Because I am not worth at six hundred euros. \n assistant: I'm afraid I can't change the budget, as six hundred euros is the fixed limit for this repair. If you can't do it for that price, I'll have to look for another plumber. \n user: Okay. Fine. Six hundred dollar is fine. \n assistant: Great, so we have a deal for six hundred euros. Can you confirm you can be in Berlin by tomorrow at ten A M to fix the toilet pipe leakage? \n user: Yes. I will be there. \n assistant: Perfect. Thank you for accepting the job. I'll send you the exact address details shortly. Have a good day. \n user: Okay. Bye. \n assistant: Goodbye. \n agent-action: Ended call \n ",
+    "transcripts": [
+        {
+            "id": 756969136,
+            "user": "assistant",
+            "text": "Hello, I'm Avira, the AI conversation agent from Task Meister.",
+            "created_at": "2026-06-16T11:25:28.253Z"
+        },
+        {
+            "id": 756969195,
+            "user": "user",
+            "text": "Okay. Why did you call me?",
+            "created_at": "2026-06-16T11:25:34.060Z"
+        },
+        {
+            "id": 756969223,
+            "user": "assistant",
+            "text": "I'm calling on behalf of a client named Ronaldo. He has a toilet pipe leakage that needs to be fixed at his location in Berlin. He needs the service done by tomorrow at ten A M, and his budget is under six hundred euros. Are you available to take this job?",
+            "created_at": "2026-06-16T11:25:36.943Z"
+        },
+        {
+            "id": 756969408,
+            "user": "user",
+            "text": "Yeah. I am available, but six hundred euros is too low. I need it by minimum thousand euros.",
+            "created_at": "2026-06-16T11:25:56.579Z"
+        },
+        {
+            "id": 756969426,
+            "user": "assistant",
+            "text": "I understand, but six hundred is the maximum budget for this specific job. Is there any way you can work within that range?",
+            "created_at": "2026-06-16T11:25:57.805Z"
+        },
+        {
+            "id": 756969562,
+            "user": "user",
+            "text": "Can you please speak with Ronaldo and change the budget? Because I am not worth at six hundred euros.",
+            "created_at": "2026-06-16T11:26:11.471Z"
+        },
+        {
+            "id": 756969590,
+            "user": "assistant",
+            "text": "I'm afraid I can't change the budget, as six hundred euros is the fixed limit for this repair. If you can't do it for that price, I'll have to look for another plumber.",
+            "created_at": "2026-06-16T11:26:13.782Z"
+        },
+        {
+            "id": 756969702,
+            "user": "user",
+            "text": "Okay. Fine. Six hundred dollar is fine.",
+            "created_at": "2026-06-16T11:26:23.967Z"
+        },
+        {
+            "id": 756969732,
+            "user": "assistant",
+            "text": "Great, so we have a deal for six hundred euros. Can you confirm you can be in Berlin by tomorrow at ten A M to fix the toilet pipe leakage?",
+            "created_at": "2026-06-16T11:26:26.492Z"
+        },
+        {
+            "id": 756969807,
+            "user": "user",
+            "text": "Yes. I will be there.",
+            "created_at": "2026-06-16T11:26:34.804Z"
+        },
+        {
+            "id": 756969836,
+            "user": "assistant",
+            "text": "Perfect. Thank you for accepting the job. I'll send you the exact address details shortly. Have a good day.",
+            "created_at": "2026-06-16T11:26:37.516Z"
+        },
+        {
+            "id": 756969896,
+            "user": "user",
+            "text": "Okay. Bye.",
+            "created_at": "2026-06-16T11:26:43.075Z"
+        },
+        {
+            "id": 756969915,
+            "user": "assistant",
+            "text": "Goodbye.",
+            "created_at": "2026-06-16T11:26:44.314Z"
+        },
+        {
+            "id": 756969916,
+            "user": "agent-action",
+            "text": "Ended call",
+            "created_at": "2026-06-16T11:26:44.314Z"
+        }
+    ],
+    "corrected_duration": "78",
+    "end_at": "2026-06-16T11:26:44.000Z",
+    "dispositions": [],
+    "voice_id": "2cc39317-4835-4cbc-b625-fbf6b7f5c5cb"
+}

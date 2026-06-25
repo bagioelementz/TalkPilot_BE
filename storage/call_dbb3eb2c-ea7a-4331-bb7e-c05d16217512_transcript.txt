@@ -1,0 +1,20 @@
+=== CALL TRANSCRIPT ===
+Call ID: dbb3eb2c-ea7a-4331-bb7e-c05d16217512
+To: +919567398542
+Date: 2026-06-19T07:17:54.391Z
+Duration: 1.71666666666667 mins
+Summary: The caller, a representative from TaskMeister, contacted a user regarding a plumbing service request from a client named Jyothish, who needs assistance with a leaking pipe in his kitchen by next Monday at 10 AM with a budget of €600. However, the user is only available if the budget is increased to €700. The representative agreed to pass along the user's requested rate to the client and will follow up with the user once a decision is made. The call ended with the understanding that the user will take on the job if the client agrees to the €700 rate.
+========================
+
+User: Hello? 
+Assistant: Hello, I hope you're doing well today. This is Avira calling from TaskMeister. Do you have a quick moment to speak with me?
+User: Yes.
+Assistant: Thank you. I'm calling regarding a plumbing service request. Our client, Jyothish, needs assistance with a leaking pipe in his kitchen. The service is required by next Monday morning, at ten o clock A M. The client has indicated a budget of approximately six hundred Euros. I wanted to check whether you might be available for this job.
+User: Yeah. I'm available, but I need like, seven hundred euros I don't I am not ready for six hundred. Can you do that for me?
+Assistant: That's helpful, thank you. Could you tell me a little about your availability and whether you would be interested in taking on this work?
+User: Yeah. But I am only I'm only working for seven euros. Six hundred is very low for me.
+Assistant: I understand completely. Six hundred Euros is the client's current budget, but I can certainly pass along your rate of seven hundred Euros to them and see if they are willing to adjust. Would you like me to do that?
+User: Yes. If they confirm seven hundred euros, then I can come.
+Assistant: That sounds fair. I will speak with the client about the adjustment to seven hundred Euros and get back to you as soon as possible. Thank you very much for your time today. It was a pleasure speaking with you. I sincerely appreciate your time and consideration. Have a wonderful day ahead. Goodbye.
+Assistant: Goodbye.
+Agent-action: Ended call

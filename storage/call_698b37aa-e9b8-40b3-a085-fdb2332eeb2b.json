@@ -1,0 +1,130 @@
+{
+    "call_id": "698b37aa-e9b8-40b3-a085-fdb2332eeb2b",
+    "c_id": "698b37aa-e9b8-40b3-a085-fdb2332eeb2b",
+    "created_at": "2026-06-19T04:16:18.052Z",
+    "updated_at": "2026-06-19T04:17:52.828Z",
+    "call_length": 1.25,
+    "to": "+919061975879",
+    "from": "+14786661670",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Thursday, June 18, 2026 9:16 PM",
+        "now_utc": "Friday, June 19, 2026 4:16 AM",
+        "short_from": "4786661670",
+        "short_to": "9061975879",
+        "from": "+14786661670",
+        "to": "+919061975879",
+        "call_id": "698b37aa-e9b8-40b3-a085-fdb2332eeb2b",
+        "phone_number": "+919061975879",
+        "country": "IN",
+        "state": "Kerala",
+        "language": "English",
+        "timestamp": "2026-06-18T21:16:31-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-19T04:16:30.000Z",
+    "record": false,
+    "recording_url": null,
+    "summary": "The caller, Avira from Task Meister, contacted a user on behalf of a client named Jyothish to request a plumber in Berlin for an urgent task that needs to be completed by Monday at 9:00 AM. The client is willing to pay 600 Euros for the service. However, the call was ended abruptly without the user providing a clear response or confirmation of availability for the task.",
+    "local_dialing": false,
+    "price": 0.176,
+    "call_ended_by": "ASSISTANT",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Hello, I'm Avira, the AI conversation agent from Task Meister. \n user: Hello, Avira? It's a pleasure to meet you. Welcome. How can I help you and the TaskRasmaster team today? \n assistant: Guten Tag. Ich rufe im Auftrag eines Kunden namens Jyothish an. Er benötigt dringend einen Klempner in Berlin. Der Auftrag muss bis Montag um neun Uhr morgens erledigt sein. Er ist bereit, sechshundert Euro zu zahlen. Haben Sie an diesem Termin Zeit? \n user: That's Kingston. I \n assistant: Entschuldigung, ich habe den Namen nicht ganz verstanden. Können Sie das bitte wiederholen? \n user: Time for them, then I'm allowed to take yours. \n assistant: Verstehe. Können Sie also den Klempnerauftrag für Montag um neun Uhr in Berlin übernehmen? Es geht um einen Notfall und mein Kunde bietet sechshundert Euro. \n assistant: Hallo? Sind Sie noch am Apparat? \n assistant: Vielen Dank für Ihre Zeit. Auf- \n agent-action: Ended call \n agent-action: Ended call \n ",
+    "transcripts": [
+        {
+            "id": 764058969,
+            "user": "assistant",
+            "text": "Hello, I'm Avira, the AI conversation agent from Task Meister.",
+            "created_at": "2026-06-19T04:16:32.672Z"
+        },
+        {
+            "id": 764059100,
+            "user": "user",
+            "text": "Hello, Avira? It's a pleasure to meet you. Welcome. How can I help you and the TaskRasmaster team today?",
+            "created_at": "2026-06-19T04:16:43.863Z"
+        },
+        {
+            "id": 764059145,
+            "user": "assistant",
+            "text": "Guten Tag. Ich rufe im Auftrag eines Kunden namens Jyothish an. Er benötigt dringend einen Klempner in Berlin. Der Auftrag muss bis Montag um neun Uhr morgens erledigt sein. Er ist bereit, sechshundert Euro zu zahlen. Haben Sie an diesem Termin Zeit?",
+            "created_at": "2026-06-19T04:16:47.990Z"
+        },
+        {
+            "id": 764059309,
+            "user": "user",
+            "text": "That's Kingston. I",
+            "created_at": "2026-06-19T04:17:03.943Z"
+        },
+        {
+            "id": 764059342,
+            "user": "assistant",
+            "text": "Entschuldigung, ich habe den Namen nicht ganz verstanden. Können Sie das bitte wiederholen?",
+            "created_at": "2026-06-19T04:17:06.931Z"
+        },
+        {
+            "id": 764059419,
+            "user": "user",
+            "text": "Time for them, then I'm allowed to take yours.",
+            "created_at": "2026-06-19T04:17:14.259Z"
+        },
+        {
+            "id": 764059474,
+            "user": "assistant",
+            "text": "Verstehe. Können Sie also den Klempnerauftrag für Montag um neun Uhr in Berlin übernehmen? Es geht um einen Notfall und mein Kunde bietet sechshundert Euro.",
+            "created_at": "2026-06-19T04:17:19.669Z"
+        },
+        {
+            "id": 764059616,
+            "user": "assistant",
+            "text": "Hallo? Sind Sie noch am Apparat?",
+            "created_at": "2026-06-19T04:17:33.251Z"
+        },
+        {
+            "id": 764059746,
+            "user": "assistant",
+            "text": "Vielen Dank für Ihre Zeit. Auf-",
+            "created_at": "2026-06-19T04:17:44.935Z"
+        },
+        {
+            "id": 764059748,
+            "user": "agent-action",
+            "text": "Ended call",
+            "created_at": "2026-06-19T04:17:44.935Z"
+        },
+        {
+            "id": 764059749,
+            "user": "agent-action",
+            "text": "Ended call",
+            "created_at": "2026-06-19T04:17:45.094Z"
+        }
+    ],
+    "corrected_duration": "75",
+    "end_at": "2026-06-19T04:17:45.000Z",
+    "dispositions": [],
+    "voice_id": "2cc39317-4835-4cbc-b625-fbf6b7f5c5cb"
+}

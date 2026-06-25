@@ -1,0 +1,15 @@
+=== CALL TRANSCRIPT ===
+Call ID: 56adc244-cfd9-4354-9c92-6e7d4d805468
+To: +4920231730667
+Date: 2026-06-16T11:38:25.919Z
+Duration: 0.716666666666667 mins
+Summary: Not enough information to generate summary.
+========================
+
+Assistant: Hello, I'm Avira, the AI conversation agent from Task Meister.
+User: For site is Nimanta Highspot.
+Assistant: Hallo, dies ist ein Testanruf von Task Meister. Ich habe Ihre Nummer über Google erhalten, da Sie ein Anbieter aus Deutschland sind. Könnten Sie mir bitte ein paar Fragen beantworten? Wie ist Ihr Name und wie ist das Wetter bei Ihnen?
+Assistant: Hallo? Sind Sie noch am Apparat?
+Assistant: Vielen Dank für Ihre Zeit.
+Agent-action: Ended call
+Agent-action: Ended call

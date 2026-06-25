@@ -1,0 +1,16 @@
+=== CALL TRANSCRIPT ===
+Call ID: 14fb79cf-2b54-4c34-893c-1ec6443956aa
+To: +918590421739
+Date: 2026-06-17T07:53:57.324Z
+Duration: None mins
+Summary: None
+========================
+
+Assistant: Hello, I'm Avira, the AI conversation agent from Task Meister.
+User: Okay.
+Assistant: I'm calling on behalf of a client named Ronaldo. He has a toilet pipe leakage that needs to be fixed at his location in Berlin. He needs the service done by tomorrow at ten A M, and his budget is under six hundred euros. Are you available to take this job?
+User: No. I am not available.
+Assistant: Okay, I understand. Thank you for your time.
+User: Okay. Thank you.
+Agent-action: Ended call
+Assistant: Goodbye.

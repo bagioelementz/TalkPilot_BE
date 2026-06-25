@@ -1,0 +1,24 @@
+=== CALL TRANSCRIPT ===
+Call ID: 1b61026c-3b35-47db-913b-7d8dcfaca5d3
+To: +919061975879
+Date: 2026-06-22T10:50:26.482Z
+Duration: 1.06666666666667 mins
+Summary: The call was between Avira from TaskMeister and a potential service provider. Avira contacted the provider to inquire about their availability to assist a client in Berlin with a pipe leak. Despite initial language barriers and introductions, the provider ultimately expressed disinterest in taking on the task, leading to the end of the call. Avira politely thanked the provider for their time and concluded the conversation.
+========================
+
+Assistant: Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schönen Tag. Hätten Sie kurz einen Moment Zeit?
+User: How are you?
+User: Good.
+Assistant: Mir geht es gut, danke der Nachfrage. Ich rufe an, weil ein Kunde in Berlin einen Klempner für ein undichtes Rohr benötigt. Hätten Sie vielleicht Kapazitäten, um zu helfen?
+User: Who are you?
+Assistant: Ich bin Avira von TaskMeister. Wir helfen Kunden dabei, Dienstleister wie Klempner zu finden.
+User: Can I speak in English?
+Assistant: Of course! I'm Avira from TaskMeister. We help clients find service providers like plumbers. A client in Berlin has a pipe leak and needs assistance. Wo-
+User: Hmm.
+Assistant: Would you be available to help with a pipe leak in -
+User: Can I speak in German?
+Assistant: Natürlich. Wie gesagt, ich rufe im Auftrag eines Kunden an, der einen Klempner in Berlin für ein undichtes Rohr benötigt. Hätten Sie Zeit, sich das anzusehen?
+User: No, I am not interested.
+User: Okay.
+Agent-action: Ended call
+Assistant: Vielen Dank für Ihre Zeit und einen schönen Tag noch. Auf Wiederhören.

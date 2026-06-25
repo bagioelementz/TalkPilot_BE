@@ -1,0 +1,22 @@
+=== CALL TRANSCRIPT ===
+Call ID: 14f2adf7-840b-4c5f-b786-0b4cda03dbe7
+To: +919061975879
+Date: 2026-06-23T04:37:18.439Z
+Duration: None mins
+Summary: None
+========================
+
+Assistant: Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schönen Tag. Ich rufe bezüglich einer Klempner-Serviceanfrage in Berlin an. Hätten Sie kurz einen Moment Zeit?
+User: Uh, can I speak in English?
+Assistant: Of course! Our client, Sam, needs help with a leaking pipe in their kitchen. The service is needed by next Monday at 10:00 AM, and the estimated budget is around six hundred euros. Would you be available and interested in taking on this job?
+User: Uh, where is the location?
+Assistant: The job is located in Berlin.
+User: Yeah, what is the date and time?
+Assistant: The service needs to be completed by next Monday at 10:00 AM.
+User: Uh, what is the budget for the job?
+Assistant: The estimated budget is around six hundred euros.
+User: I'm not available €600. I need at least €800.
+Assistant: No problem. Thank you for your time. Have a great day.
+User: Okay.
+Assistant: Thank you for your time and have a nice day. Goodbye.
+Agent-action: Ended call

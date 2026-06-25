@@ -1,0 +1,159 @@
+{
+    "call_id": "0422f027-ab7b-47fa-a9e0-e5a091c36961",
+    "c_id": "0422f027-ab7b-47fa-a9e0-e5a091c36961",
+    "created_at": "2026-06-24T06:11:28.880Z",
+    "updated_at": "2026-06-24T06:13:30.401Z",
+    "call_length": 1.73333333333333,
+    "to": "+917094097739",
+    "from": "+16615454847",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Tuesday, June 23, 2026 11:11 PM",
+        "now_utc": "Wednesday, June 24, 2026 6:11 AM",
+        "short_from": "6615454847",
+        "short_to": "7094097739",
+        "from": "+16615454847",
+        "to": "+917094097739",
+        "call_id": "0422f027-ab7b-47fa-a9e0-e5a091c36961",
+        "phone_number": "+917094097739",
+        "country": "IN",
+        "language": "Fluent",
+        "timestamp": "2026-06-23T23:11:40-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-24T06:11:39.000Z",
+    "record": false,
+    "recording_url": null,
+    "summary": "The caller, Avira from TaskMeister, contacted a potential service provider regarding a plumbing job in Berlin to fix a leaking pipe in a kitchen. The estimated budget for the job was 600 EUR and needed to be completed by next Monday at 10:00 AM. Initially, the service provider expressed interest in taking the job, but eventually stated they were not available, leading to the call being ended. Despite initial interest, the service provider's unavailability resulted in no agreement being reached.",
+    "local_dialing": false,
+    "price": 0.243,
+    "call_ended_by": "ASSISTANT",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "user: Oh.  \n assistant: Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schonen Tag. Ich rufe bezuglich einer Klempner-Serviceanfrage in Berlin an. Hatten Sie kurz einen Moment Zeit? \n user: I don't understand. \n assistant: Hello! This is Avira from TaskMeister. I hope you're having a nice day. I'm calling regarding a plumbing service request in Berlin. Do you have a moment to speak? \n user: Die, animal universe. \n assistant: I'm sorry, I'm not sure I understood that correctly. I'm calling on behalf of a client who needs help with a leaking pipe in their kitchen. The service is needed by next Monday at 10:00 AM, and the estimated budget is around 600 EUR. Are you available and interested in taking the job? \n user: Yeah, I am interested. \n assistant: Great! Could you please let me know your availability and if you have any specific requirements before I share the client's details with you? \n user: Oh, thank you. \n assistant: You're welcome. So, when are you available to take a look at the leaking pipe next Monday? \n user: You know, I am not adamant. \n assistant: I understand. Since the client needs the service done by next Monday at 10:00 AM, would you be able to schedule a visit before then? Perhaps over the weekend or earlier on Monday? \n user: No, I'm not available. \n assistant: Okay, I understand. Thank you for your time anyway. Have a nice day. Goodbye. \n assistant: Thank you for your time and have a nice day. Goodbye. \n agent-action: Ended call \n ",
+    "transcripts": [
+        {
+            "id": 773243448,
+            "user": "user",
+            "text": "Oh. ",
+            "created_at": "2026-06-24T06:11:43.118Z"
+        },
+        {
+            "id": 773243479,
+            "user": "assistant",
+            "text": "Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schonen Tag. Ich rufe bezuglich einer Klempner-Serviceanfrage in Berlin an. Hatten Sie kurz einen Moment Zeit?",
+            "created_at": "2026-06-24T06:11:48.748Z"
+        },
+        {
+            "id": 773243514,
+            "user": "user",
+            "text": "I don't understand.",
+            "created_at": "2026-06-24T06:11:55.084Z"
+        },
+        {
+            "id": 773243551,
+            "user": "assistant",
+            "text": "Hello! This is Avira from TaskMeister. I hope you're having a nice day. I'm calling regarding a plumbing service request in Berlin. Do you have a moment to speak?",
+            "created_at": "2026-06-24T06:12:03.852Z"
+        },
+        {
+            "id": 773243569,
+            "user": "user",
+            "text": "Die, animal universe.",
+            "created_at": "2026-06-24T06:12:07.984Z"
+        },
+        {
+            "id": 773243606,
+            "user": "assistant",
+            "text": "I'm sorry, I'm not sure I understood that correctly. I'm calling on behalf of a client who needs help with a leaking pipe in their kitchen. The service is needed by next Monday at 10:00 AM, and the estimated budget is around 600 EUR. Are you available and interested in taking the job?",
+            "created_at": "2026-06-24T06:12:15.624Z"
+        },
+        {
+            "id": 773243670,
+            "user": "user",
+            "text": "Yeah, I am interested.",
+            "created_at": "2026-06-24T06:12:26.584Z"
+        },
+        {
+            "id": 773243726,
+            "user": "assistant",
+            "text": "Great! Could you please let me know your availability and if you have any specific requirements before I share the client's details with you?",
+            "created_at": "2026-06-24T06:12:34.901Z"
+        },
+        {
+            "id": 773243778,
+            "user": "user",
+            "text": "Oh, thank you.",
+            "created_at": "2026-06-24T06:12:41.405Z"
+        },
+        {
+            "id": 773243841,
+            "user": "assistant",
+            "text": "You're welcome. So, when are you available to take a look at the leaking pipe next Monday?",
+            "created_at": "2026-06-24T06:12:47.730Z"
+        },
+        {
+            "id": 773243880,
+            "user": "user",
+            "text": "You know, I am not adamant.",
+            "created_at": "2026-06-24T06:12:51.484Z"
+        },
+        {
+            "id": 773244020,
+            "user": "assistant",
+            "text": "I understand. Since the client needs the service done by next Monday at 10:00 AM, would you be able to schedule a visit before then? Perhaps over the weekend or earlier on Monday?",
+            "created_at": "2026-06-24T06:13:03.091Z"
+        },
+        {
+            "id": 773244070,
+            "user": "user",
+            "text": "No, I'm not available.",
+            "created_at": "2026-06-24T06:13:06.603Z"
+        },
+        {
+            "id": 773244149,
+            "user": "assistant",
+            "text": "Okay, I understand. Thank you for your time anyway. Have a nice day. Goodbye.",
+            "created_at": "2026-06-24T06:13:11.969Z"
+        },
+        {
+            "id": 773244286,
+            "user": "assistant",
+            "text": "Thank you for your time and have a nice day. Goodbye.",
+            "created_at": "2026-06-24T06:13:22.355Z"
+        },
+        {
+            "id": 773244289,
+            "user": "agent-action",
+            "text": "Ended call",
+            "created_at": "2026-06-24T06:13:22.355Z"
+        }
+    ],
+    "corrected_duration": "104",
+    "end_at": "2026-06-24T06:13:23.000Z",
+    "dispositions": [],
+    "voice_id": "a24c43d3-f448-4fea-a498-a9287f7cabf3"
+}

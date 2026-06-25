@@ -1,0 +1,42 @@
+=== CALL TRANSCRIPT ===
+Call ID: 1ecde010-f2ac-45ff-84e5-6764a5f164cb
+To: +919207404774
+Date: 2026-06-17T07:46:45.224Z
+Duration: None mins
+Summary: None
+========================
+
+Assistant: Hello, I'm Avira, the AI conversation agent from Task Meister.
+User: Hi.
+Assistant: I'm calling on behalf of a client named Ronaldo. He has a toilet pipe leakage that needs to be fixed at his location in Berlin. He needs the service done by tomorrow at ten A M, and his budget is under six hundred euros. Are you available to take this job?
+User: No. I'm not available.
+Assistant: Okay, thank you for your time. Have a good day.
+User: How's that cable going?
+Assistant: I'm sorry, I'm not sure what you mean by that. I was just calling about the plumbing job for Ronaldo. Since you're not available, I'll let you go. Have a good day.
+User: I mean, I'm not no. I'm not available.
+Assistant: Understood. Thank you for letting me know.
+User: I've called a few times.
+Assistant: I see. Well, I won't keep you any longer. Goodbye.
+User: I'm sorry. I'm not able to understand what you're saying.
+Assistant: I apologize for the con-
+User: Hello?
+Assistant: Hello. I'm calling about a plumbing job in Berlin for a client named Ronaldo. He has a toilet pipe leak that needs to be fixed by tomorrow morning at ten A M. His budget is under six hundred euros. Are you available?
+User: I'm good. You are at seven hundred euros.
+Assistant: Seven hundred is a bit over the budget. The client is hoping to stay under six hundred. Is there any way you could do it for five hundred and fifty?
+User: Okay.
+Assistant: Great. So you can do the job for five hundred and fifty euros by tomorrow at ten A M?
+User: Yes.
+Assistant: Excellent. The address is in Berlin. Could you provide your name and phone number so I can pass the details along to Ronaldo?
+User: Okay.
+Assistant: Go ahead.
+User: Name is Sihari.
+Assistant: Got it, Sihari. And what is your phone number?
+User: Phone numb.
+User: One one zero eight.
+Assistant: Is that the full number? It seems a bit short.
+User: Yes.
+Assistant: Okay, thank you. I'll let -
+User: One zero eight one zero eight one zero eight.
+Assistant: Got it. One zero eight one zero eight one zero eight. Thank you, Sihari. I'll pass your information to Ronaldo and he will be in touch. Goodbye.
+Assistant: Goodbye.
+Agent-action: Ended call

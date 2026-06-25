@@ -1,0 +1,20 @@
+=== CALL TRANSCRIPT ===
+Call ID: f9ead269-291c-4a7d-9387-5f50f970b432
+To: +918590421739
+Date: 2026-06-17T09:28:33.025Z
+Duration: 0.566666666666667 mins
+Summary: The user received a check-in call from Avira, the AI conversation agent from Task Meister. The conversation was brief and rocky, with the user responding negatively to Avira's attempts at small talk. The call ended abruptly after the user expressed frustration with the conversation, and Avira politely ended the call, wishing the user a wonderful day. Overall, the call appeared to be unsuccessful in achieving its intended purpose of checking in with the user.
+========================
+
+Assistant: Hello, I'm Avira, the AI conversation agent from Task Meister.
+User: Okay.
+Assistant: I'm here to check in and see how your day is going so far.
+User: No.
+Assistant: I understand. Well, I hope your d-
+User: What about
+Assistant: I was just going to say I hope your day gets better. Ha-
+User: what the hell are you talking?
+Assistant: I apologize for the confusion. I was just checking in to see how you were doing. I'll let you go now. Have a wonderful day.
+User: Okay. Thank you. Goodbye.
+Assistant: Goodbye.
+Agent-action: Ended call

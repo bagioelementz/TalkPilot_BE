@@ -1,0 +1,13 @@
+=== CALL TRANSCRIPT ===
+Call ID: af5d5ebf-213e-442c-8a52-f3f4094e2d77
+To: +919061975879
+Date: 2026-06-22T05:45:41.976Z
+Duration: 0.35 mins
+Summary: The caller initially reached out to a German-speaking assistant, but promptly requested to switch to English, and the assistant accommodated this request, proceeding to inquire about the caller's day.
+========================
+
+Assistant: Guten Tag! Vielen Dank für Ihren Anruf. Wie kann ich Ihnen heute helfen?
+User: Hello?
+Assistant: Hallo! Rishi, wie war dein Tag heute?
+User: Can I speak in English?
+Assistant: Of course, we can speak in English. How was your day today, Rishi?

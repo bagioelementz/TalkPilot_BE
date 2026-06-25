@@ -1,0 +1,16 @@
+=== CALL TRANSCRIPT ===
+Call ID: a23e2faf-70c5-40ad-980e-e32ec7a2c6ba
+To: +917094097739
+Date: 2026-06-24T05:04:08.467Z
+Duration: 0.766666666666667 mins
+Summary: The call was between a customer service representative from TaskMeister, Avira, and a user. Avira contacted the user regarding a plumbing service request in Berlin, but the user responded in Spanish, which Avira couldn't understand. Avira attempted to clarify the language barrier, offering assistance in German or English, but the user continued to speak in Spanish, leading to the end of the call.
+========================
+
+Assistant: Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schonen Tag. Ich rufe bezuglich einer Klempner-Serviceanfrage in Berlin an. Hatten Sie kurz einen Moment Zeit?
+User: Pero ahorita, para que tenga
+User: Bueno, pues voy a hacer un vídeo.
+User: Bueno, vamos a ver si hay algo que nunca hemos hablado.
+Assistant: I apologize, but I'm having trouble understanding. If you speak German or English, I can assist you with a plumbing job in Berlin. Otherwise, thank you for your time. Goodbye.
+User: ¿Qué es esto?
+Agent-action: Ended call
+Assistant: Thank you for your time. Goodbye.

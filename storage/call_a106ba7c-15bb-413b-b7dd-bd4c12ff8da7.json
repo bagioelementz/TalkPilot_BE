@@ -1,0 +1,118 @@
+{
+    "call_id": "a106ba7c-15bb-413b-b7dd-bd4c12ff8da7",
+    "c_id": "a106ba7c-15bb-413b-b7dd-bd4c12ff8da7",
+    "created_at": "2026-06-23T04:39:32.334Z",
+    "updated_at": "2026-06-23T04:41:14.425Z",
+    "call_length": null,
+    "to": "+919061975879",
+    "from": "+17622426384",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Monday, June 22, 2026 9:39 PM",
+        "now_utc": "Tuesday, June 23, 2026 4:39 AM",
+        "short_from": "7622426384",
+        "short_to": "9061975879",
+        "from": "+17622426384",
+        "to": "+919061975879",
+        "call_id": "a106ba7c-15bb-413b-b7dd-bd4c12ff8da7",
+        "phone_number": "+919061975879",
+        "country": "IN",
+        "state": "Kerala",
+        "language": "Fluent",
+        "timestamp": "2026-06-22T21:39:40-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-23T04:39:40.282Z",
+    "record": false,
+    "recording_url": null,
+    "summary": null,
+    "local_dialing": false,
+    "price": 0,
+    "call_ended_by": "USER",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schönen Tag. Ich rufe bezüglich einer Klempner-Serviceanfrage in Berlin an. Hätten Sie kurz einen Moment Zeit? \n user: Okay, speak in English. \n assistant: Of course. Our client, Sam, needs help with a leaking pipe in their kitchen. The service is needed by next Monday at 10:00 AM, and the estimated budget is around six hundred euros. Would you be available and interested in taking on this job? \n user: Okay, on whose behalf are you calling? \n assistant: I am calling on behalf of TaskMeister. We are connecting service providers with clients who need help. \n user: Okay, but, uh, €600 is very low. Can you, uh, make the deal for €700? \n assistant: I understand your concern. However, the client's estimated budget is around six hundred euros. Would you still be interested in taking the job at that rate? \n user: No, but I'll be interested if it's €700. So can you speak with your owner and, uh, change it to that budget? If they are available for that, then I am okay. \n assistant: I'm sorry, but I don't have the authority to change the client's budget. Since you aren't available at the current rate, I'll have to look for another provider. Thank you for your time and have a nice day. Goodbye. \n ",
+    "transcripts": [
+        {
+            "id": 770495139,
+            "user": "assistant",
+            "text": "Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schönen Tag. Ich rufe bezüglich einer Klempner-Serviceanfrage in Berlin an. Hätten Sie kurz einen Moment Zeit?",
+            "created_at": "2026-06-23T04:39:50.323Z"
+        },
+        {
+            "id": 770495167,
+            "user": "user",
+            "text": "Okay, speak in English.",
+            "created_at": "2026-06-23T04:39:53.558Z"
+        },
+        {
+            "id": 770495228,
+            "user": "assistant",
+            "text": "Of course. Our client, Sam, needs help with a leaking pipe in their kitchen. The service is needed by next Monday at 10:00 AM, and the estimated budget is around six hundred euros. Would you be available and interested in taking on this job?",
+            "created_at": "2026-06-23T04:40:05.421Z"
+        },
+        {
+            "id": 770495280,
+            "user": "user",
+            "text": "Okay, on whose behalf are you calling?",
+            "created_at": "2026-06-23T04:40:13.055Z"
+        },
+        {
+            "id": 770495319,
+            "user": "assistant",
+            "text": "I am calling on behalf of TaskMeister. We are connecting service providers with clients who need help.",
+            "created_at": "2026-06-23T04:40:19.137Z"
+        },
+        {
+            "id": 770495379,
+            "user": "user",
+            "text": "Okay, but, uh, €600 is very low. Can you, uh, make the deal for €700?",
+            "created_at": "2026-06-23T04:40:28.470Z"
+        },
+        {
+            "id": 770495457,
+            "user": "assistant",
+            "text": "I understand your concern. However, the client's estimated budget is around six hundred euros. Would you still be interested in taking the job at that rate?",
+            "created_at": "2026-06-23T04:40:39.028Z"
+        },
+        {
+            "id": 770495558,
+            "user": "user",
+            "text": "No, but I'll be interested if it's €700. So can you speak with your owner and, uh, change it to that budget? If they are available for that, then I am okay.",
+            "created_at": "2026-06-23T04:40:55.170Z"
+        },
+        {
+            "id": 770495615,
+            "user": "assistant",
+            "text": "I'm sorry, but I don't have the authority to change the client's budget. Since you aren't available at the current rate, I'll have to look for another provider. Thank you for your time and have a nice day. Goodbye.",
+            "created_at": "2026-06-23T04:41:04.563Z"
+        }
+    ],
+    "corrected_duration": "90",
+    "end_at": "2026-06-23T04:41:09.000Z",
+    "dispositions": [],
+    "voice_id": "a24c43d3-f448-4fea-a498-a9287f7cabf3"
+}

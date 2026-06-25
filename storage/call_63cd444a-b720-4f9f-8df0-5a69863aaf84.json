@@ -1,0 +1,142 @@
+{
+    "call_id": "63cd444a-b720-4f9f-8df0-5a69863aaf84",
+    "c_id": "63cd444a-b720-4f9f-8df0-5a69863aaf84",
+    "created_at": "2026-06-19T06:32:45.691Z",
+    "updated_at": "2026-06-19T06:33:55.849Z",
+    "call_length": 0.883333333333333,
+    "to": "+919061975879",
+    "from": "+13369622520",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Thursday, June 18, 2026 11:32 PM",
+        "now_utc": "Friday, June 19, 2026 6:32 AM",
+        "short_from": "3369622520",
+        "short_to": "9061975879",
+        "from": "+13369622520",
+        "to": "+919061975879",
+        "call_id": "63cd444a-b720-4f9f-8df0-5a69863aaf84",
+        "phone_number": "+919061975879",
+        "country": "IN",
+        "state": "Kerala",
+        "language": "English",
+        "timestamp": "2026-06-18T23:32:56-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-19T06:32:55.000Z",
+    "record": false,
+    "recording_url": null,
+    "summary": "The call was a brief and friendly introduction from Avira at TaskMeister, where she checked in with the user, inquired about their day, and expressed appreciation for their time. The conversation was polite and courteous, but lacked any substantial discussion or specific agenda, suggesting it may have been a courtesy or outreach call. The call ended with a positive tone and a mutual exchange of goodbyes.",
+    "local_dialing": false,
+    "price": 0.124,
+    "call_ended_by": "ASSISTANT",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Hello, I hope you're doing well today. This is Avira calling from TaskMeister. Do you have a quick moment to speak with me? \n assistant: Hello? This is Avira from Task- \n user: Hello? Hello? \n assistant: Hello, I hope you're doing well today. This is Avira calling from TaskMeister. Do you have a quick moment to speak with me? \n user: Yes. \n assistant: Thank you so much. How is your day going so far? \n user: That's good. \n assistant: I'm glad to hear that. I just wanted to reach out and say hello. I hope you have a wonderful rest of your day. \n user: Okay. \n assistant: Thank you very much for your time today. It was a pleasure speaking with you. I sincerely appreciate your time and consideration. Have a wonderful day ahead. Goodbye. \n user: Bye. \n assistant: Goodbye. \n agent-action: Ended call \n ",
+    "transcripts": [
+        {
+            "id": 764125389,
+            "user": "assistant",
+            "text": "Hello, I hope you're doing well today. This is Avira calling from TaskMeister. Do you have a quick moment to speak with me?",
+            "created_at": "2026-06-19T06:32:58.670Z"
+        },
+        {
+            "id": 764125523,
+            "user": "assistant",
+            "text": "Hello? This is Avira from Task-",
+            "created_at": "2026-06-19T06:33:12.462Z"
+        },
+        {
+            "id": 764125524,
+            "user": "user",
+            "text": "Hello? Hello?",
+            "created_at": "2026-06-19T06:33:12.463Z"
+        },
+        {
+            "id": 764125545,
+            "user": "assistant",
+            "text": "Hello, I hope you're doing well today. This is Avira calling from TaskMeister. Do you have a quick moment to speak with me?",
+            "created_at": "2026-06-19T06:33:14.646Z"
+        },
+        {
+            "id": 764125610,
+            "user": "user",
+            "text": "Yes.",
+            "created_at": "2026-06-19T06:33:20.971Z"
+        },
+        {
+            "id": 764125625,
+            "user": "assistant",
+            "text": "Thank you so much. How is your day going so far?",
+            "created_at": "2026-06-19T06:33:22.462Z"
+        },
+        {
+            "id": 764125659,
+            "user": "user",
+            "text": "That's good.",
+            "created_at": "2026-06-19T06:33:27.232Z"
+        },
+        {
+            "id": 764125667,
+            "user": "assistant",
+            "text": "I'm glad to hear that. I just wanted to reach out and say hello. I hope you have a wonderful rest of your day.",
+            "created_at": "2026-06-19T06:33:28.439Z"
+        },
+        {
+            "id": 764125707,
+            "user": "user",
+            "text": "Okay.",
+            "created_at": "2026-06-19T06:33:34.632Z"
+        },
+        {
+            "id": 764125725,
+            "user": "assistant",
+            "text": "Thank you very much for your time today. It was a pleasure speaking with you. I sincerely appreciate your time and consideration. Have a wonderful day ahead. Goodbye.",
+            "created_at": "2026-06-19T06:33:36.879Z"
+        },
+        {
+            "id": 764125799,
+            "user": "user",
+            "text": "Bye.",
+            "created_at": "2026-06-19T06:33:46.332Z"
+        },
+        {
+            "id": 764125804,
+            "user": "assistant",
+            "text": "Goodbye.",
+            "created_at": "2026-06-19T06:33:47.325Z"
+        },
+        {
+            "id": 764125806,
+            "user": "agent-action",
+            "text": "Ended call",
+            "created_at": "2026-06-19T06:33:47.325Z"
+        }
+    ],
+    "corrected_duration": "53",
+    "end_at": "2026-06-19T06:33:48.000Z",
+    "dispositions": [],
+    "voice_id": "2cc39317-4835-4cbc-b625-fbf6b7f5c5cb"
+}

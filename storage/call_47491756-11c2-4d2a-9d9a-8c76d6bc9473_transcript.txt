@@ -1,0 +1,22 @@
+=== CALL TRANSCRIPT ===
+Call ID: 47491756-11c2-4d2a-9d9a-8c76d6bc9473
+To: +919061975879
+Date: 2026-06-16T11:25:13.028Z
+Duration: None mins
+Summary: None
+========================
+
+Assistant: Hello, I'm Avira, the AI conversation agent from Task Meister.
+User: Okay. Why did you call me?
+Assistant: I'm calling on behalf of a client named Ronaldo. He has a toilet pipe leakage that needs to be fixed at his location in Berlin. He needs the service done by tomorrow at ten A M, and his budget is under six hundred euros. Are you available to take this job?
+User: Yeah. I am available, but six hundred euros is too low. I need it by minimum thousand euros.
+Assistant: I understand, but six hundred is the maximum budget for this specific job. Is there any way you can work within that range?
+User: Can you please speak with Ronaldo and change the budget? Because I am not worth at six hundred euros.
+Assistant: I'm afraid I can't change the budget, as six hundred euros is the fixed limit for this repair. If you can't do it for that price, I'll have to look for another plumber.
+User: Okay. Fine. Six hundred dollar is fine.
+Assistant: Great, so we have a deal for six hundred euros. Can you confirm you can be in Berlin by tomorrow at ten A M to fix the toilet pipe leakage?
+User: Yes. I will be there.
+Assistant: Perfect. Thank you for accepting the job. I'll send you the exact address details shortly. Have a good day.
+User: Okay. Bye.
+Assistant: Goodbye.
+Agent-action: Ended call

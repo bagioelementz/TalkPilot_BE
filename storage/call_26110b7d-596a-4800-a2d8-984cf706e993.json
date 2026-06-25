@@ -1,0 +1,117 @@
+{
+    "call_id": "26110b7d-596a-4800-a2d8-984cf706e993",
+    "c_id": "26110b7d-596a-4800-a2d8-984cf706e993",
+    "created_at": "2026-06-17T07:52:31.222Z",
+    "updated_at": "2026-06-17T07:53:34.943Z",
+    "call_length": null,
+    "to": "+918590421739",
+    "from": "+19452005074",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Wednesday, June 17, 2026 12:52 AM",
+        "now_utc": "Wednesday, June 17, 2026 7:52 AM",
+        "short_from": "9452005074",
+        "short_to": "8590421739",
+        "from": "+19452005074",
+        "to": "+918590421739",
+        "call_id": "26110b7d-596a-4800-a2d8-984cf706e993",
+        "phone_number": "+918590421739",
+        "country": "IN",
+        "language": "English",
+        "timestamp": "2026-06-17T00:52:52-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-17T07:52:52.879Z",
+    "record": false,
+    "recording_url": null,
+    "summary": null,
+    "local_dialing": false,
+    "price": 0,
+    "call_ended_by": "ASSISTANT",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Hello, I'm Avira, the AI conversation agent from Task Meister. \n user: Hello? \n assistant: Hi, I'm calling on behalf of a client named Ronaldo. He has a toilet pipe leakage that needs to be fixed at his location in Berlin. He needs the service done by tomorrow at ten A M, and his budget is und- \n user: Okay. \n assistant: under six hundred euros. Are you available to take this job? \n user: No. I am not available. \n assistant: Okay, thank you for your time. Goodbye. \n assistant: Goodbye. \n agent-action: Ended call \n ",
+    "transcripts": [
+        {
+            "id": 759373585,
+            "user": "assistant",
+            "text": "Hello, I'm Avira, the AI conversation agent from Task Meister.",
+            "created_at": "2026-06-17T07:52:54.123Z"
+        },
+        {
+            "id": 759373611,
+            "user": "user",
+            "text": "Hello?",
+            "created_at": "2026-06-17T07:52:59.373Z"
+        },
+        {
+            "id": 759373623,
+            "user": "assistant",
+            "text": "Hi, I'm calling on behalf of a client named Ronaldo. He has a toilet pipe leakage that needs to be fixed at his location in Berlin. He needs the service done by tomorrow at ten A M, and his budget is und-",
+            "created_at": "2026-06-17T07:53:02.533Z"
+        },
+        {
+            "id": 759373690,
+            "user": "user",
+            "text": "Okay.",
+            "created_at": "2026-06-17T07:53:10.354Z"
+        },
+        {
+            "id": 759373701,
+            "user": "assistant",
+            "text": "under six hundred euros. Are you available to take this job?",
+            "created_at": "2026-06-17T07:53:12.175Z"
+        },
+        {
+            "id": 759373730,
+            "user": "user",
+            "text": "No. I am not available.",
+            "created_at": "2026-06-17T07:53:17.103Z"
+        },
+        {
+            "id": 759373747,
+            "user": "assistant",
+            "text": "Okay, thank you for your time. Goodbye.",
+            "created_at": "2026-06-17T07:53:18.900Z"
+        },
+        {
+            "id": 759373811,
+            "user": "assistant",
+            "text": "Goodbye.",
+            "created_at": "2026-06-17T07:53:28.596Z"
+        },
+        {
+            "id": 759373810,
+            "user": "agent-action",
+            "text": "Ended call",
+            "created_at": "2026-06-17T07:53:28.597Z"
+        }
+    ],
+    "corrected_duration": "37",
+    "end_at": "2026-06-17T07:53:29.000Z",
+    "dispositions": [],
+    "voice_id": "2cc39317-4835-4cbc-b625-fbf6b7f5c5cb"
+}

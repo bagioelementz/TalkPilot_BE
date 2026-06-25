@@ -1,0 +1,160 @@
+{
+    "call_id": "1b61026c-3b35-47db-913b-7d8dcfaca5d3",
+    "c_id": "1b61026c-3b35-47db-913b-7d8dcfaca5d3",
+    "created_at": "2026-06-22T10:50:26.482Z",
+    "updated_at": "2026-06-22T10:51:47.484Z",
+    "call_length": 1.06666666666667,
+    "to": "+919061975879",
+    "from": "+18782832250",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Monday, June 22, 2026 3:50 AM",
+        "now_utc": "Monday, June 22, 2026 10:50 AM",
+        "short_from": "8782832250",
+        "short_to": "9061975879",
+        "from": "+18782832250",
+        "to": "+919061975879",
+        "call_id": "1b61026c-3b35-47db-913b-7d8dcfaca5d3",
+        "phone_number": "+919061975879",
+        "country": "IN",
+        "state": "Kerala",
+        "language": "Fluent",
+        "timestamp": "2026-06-22T03:50:37-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-22T10:50:36.000Z",
+    "record": false,
+    "recording_url": null,
+    "summary": "The call was between Avira from TaskMeister and a potential service provider. Avira contacted the provider to inquire about their availability to assist a client in Berlin with a pipe leak. Despite initial language barriers and introductions, the provider ultimately expressed disinterest in taking on the task, leading to the end of the call. Avira politely thanked the provider for their time and concluded the conversation.",
+    "local_dialing": false,
+    "price": 0.15,
+    "call_ended_by": "ASSISTANT",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schönen Tag. Hätten Sie kurz einen Moment Zeit? \n user: How are you? \n user: Good. \n assistant: Mir geht es gut, danke der Nachfrage. Ich rufe an, weil ein Kunde in Berlin einen Klempner für ein undichtes Rohr benötigt. Hätten Sie vielleicht Kapazitäten, um zu helfen? \n user: Who are you? \n assistant: Ich bin Avira von TaskMeister. Wir helfen Kunden dabei, Dienstleister wie Klempner zu finden. \n user: Can I speak in English? \n assistant: Of course! I'm Avira from TaskMeister. We help clients find service providers like plumbers. A client in Berlin has a pipe leak and needs assistance. Wo- \n user: Hmm. \n assistant: Would you be available to help with a pipe leak in - \n user: Can I speak in German? \n assistant: Natürlich. Wie gesagt, ich rufe im Auftrag eines Kunden an, der einen Klempner in Berlin für ein undichtes Rohr benötigt. Hätten Sie Zeit, sich das anzusehen? \n user: No, I am not interested. \n user: Okay. \n agent-action: Ended call \n assistant: Vielen Dank für Ihre Zeit und einen schönen Tag noch. Auf Wiederhören. \n ",
+    "transcripts": [
+        {
+            "id": 767816242,
+            "user": "assistant",
+            "text": "Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schönen Tag. Hätten Sie kurz einen Moment Zeit?",
+            "created_at": "2026-06-22T10:50:43.048Z"
+        },
+        {
+            "id": 767816335,
+            "user": "user",
+            "text": "How are you?",
+            "created_at": "2026-06-22T10:50:46.552Z"
+        },
+        {
+            "id": 767816602,
+            "user": "user",
+            "text": "Good.",
+            "created_at": "2026-06-22T10:50:56.153Z"
+        },
+        {
+            "id": 767816603,
+            "user": "assistant",
+            "text": "Mir geht es gut, danke der Nachfrage. Ich rufe an, weil ein Kunde in Berlin einen Klempner für ein undichtes Rohr benötigt. Hätten Sie vielleicht Kapazitäten, um zu helfen?",
+            "created_at": "2026-06-22T10:50:56.153Z"
+        },
+        {
+            "id": 767816658,
+            "user": "user",
+            "text": "Who are you?",
+            "created_at": "2026-06-22T10:50:58.254Z"
+        },
+        {
+            "id": 767816810,
+            "user": "assistant",
+            "text": "Ich bin Avira von TaskMeister. Wir helfen Kunden dabei, Dienstleister wie Klempner zu finden.",
+            "created_at": "2026-06-22T10:51:04.294Z"
+        },
+        {
+            "id": 767816901,
+            "user": "user",
+            "text": "Can I speak in English?",
+            "created_at": "2026-06-22T10:51:07.253Z"
+        },
+        {
+            "id": 767817139,
+            "user": "assistant",
+            "text": "Of course! I'm Avira from TaskMeister. We help clients find service providers like plumbers. A client in Berlin has a pipe leak and needs assistance. Wo-",
+            "created_at": "2026-06-22T10:51:16.253Z"
+        },
+        {
+            "id": 767817138,
+            "user": "user",
+            "text": "Hmm.",
+            "created_at": "2026-06-22T10:51:16.254Z"
+        },
+        {
+            "id": 767817214,
+            "user": "assistant",
+            "text": "Would you be available to help with a pipe leak in -",
+            "created_at": "2026-06-22T10:51:18.953Z"
+        },
+        {
+            "id": 767817213,
+            "user": "user",
+            "text": "Can I speak in German?",
+            "created_at": "2026-06-22T10:51:18.954Z"
+        },
+        {
+            "id": 767817502,
+            "user": "assistant",
+            "text": "Natürlich. Wie gesagt, ich rufe im Auftrag eines Kunden an, der einen Klempner in Berlin für ein undichtes Rohr benötigt. Hätten Sie Zeit, sich das anzusehen?",
+            "created_at": "2026-06-22T10:51:28.884Z"
+        },
+        {
+            "id": 767817525,
+            "user": "user",
+            "text": "No, I am not interested.",
+            "created_at": "2026-06-22T10:51:29.573Z"
+        },
+        {
+            "id": 767817686,
+            "user": "user",
+            "text": "Okay.",
+            "created_at": "2026-06-22T10:51:35.872Z"
+        },
+        {
+            "id": 767817792,
+            "user": "agent-action",
+            "text": "Ended call",
+            "created_at": "2026-06-22T10:51:39.796Z"
+        },
+        {
+            "id": 767817793,
+            "user": "assistant",
+            "text": "Vielen Dank für Ihre Zeit und einen schönen Tag noch. Auf Wiederhören.",
+            "created_at": "2026-06-22T10:51:39.796Z"
+        }
+    ],
+    "corrected_duration": "64",
+    "end_at": "2026-06-22T10:51:40.000Z",
+    "dispositions": [],
+    "voice_id": "a24c43d3-f448-4fea-a498-a9287f7cabf3"
+}

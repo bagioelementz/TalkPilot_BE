@@ -1,0 +1,142 @@
+{
+    "call_id": "35861bd1-ea8b-459a-b8fc-d03e69273115",
+    "c_id": "35861bd1-ea8b-459a-b8fc-d03e69273115",
+    "created_at": "2026-06-19T06:34:35.535Z",
+    "updated_at": "2026-06-19T06:36:13.092Z",
+    "call_length": 1.35,
+    "to": "+919061975879",
+    "from": "+18166446295",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Thursday, June 18, 2026 11:34 PM",
+        "now_utc": "Friday, June 19, 2026 6:34 AM",
+        "short_from": "8166446295",
+        "short_to": "9061975879",
+        "from": "+18166446295",
+        "to": "+919061975879",
+        "call_id": "35861bd1-ea8b-459a-b8fc-d03e69273115",
+        "phone_number": "+919061975879",
+        "country": "IN",
+        "state": "Kerala",
+        "language": "English",
+        "timestamp": "2026-06-18T23:34:45-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-19T06:34:44.000Z",
+    "record": false,
+    "recording_url": null,
+    "summary": "The caller from TaskMeister, Avira, contacted a potential service provider to offer a plumbing job for a client, Jyothish, in Berlin, who has a kitchen pipe leakage. The service provider agreed to take on the job but requested a higher payment than the initial offer of 600 euros, suggesting 700 euros as a fair price. The caller agreed to check with the client and potentially schedule the repair for the following Monday at 10 am if the price adjustment is accepted. The details are pending confirmation with the client.",
+    "local_dialing": false,
+    "price": 0.19,
+    "call_ended_by": "ASSISTANT",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Hello, I hope you're doing well today. This is Avira calling from TaskMeister. Do you have a quick moment to speak with me? \n user: Yeah. Okay. \n assistant: Thank you. I'm calling on behalf of a client named Jyothish who needs a plumber in Berlin. He has a pipe leakage in his kitchen and is looking for someone to repair it. Are you available for this kind of work? \n user: Okay. I am available for this work. But about the price, I'm not that much good because six hundred euros is too low. \n assistant: I understa- \n user: You increase the amount? \n assistant: I understand completely. My client is willing to pay six hundred euros for the repair. Is there a specific amount you would consider fair for this job? \n user: Seven hundred euros will be fine. \n assistant: I see. Let me check with my client regarding the adjustment to seven hundred euros. If he agrees to that price, would you be available to come next Monday at ten in the morning? \n user: Yes. I see the okay with that price, I will be available totally. \n assistant: That sounds great. I will confirm the details with my client and get back to you shortly to finalize everything. Thank you very much for your time today. Have a wonderful day ahead. Goodbye. \n assistant: Goodbye. \n agent-action: Ended call \n ",
+    "transcripts": [
+        {
+            "id": 764126146,
+            "user": "assistant",
+            "text": "Hello, I hope you're doing well today. This is Avira calling from TaskMeister. Do you have a quick moment to speak with me?",
+            "created_at": "2026-06-19T06:34:47.155Z"
+        },
+        {
+            "id": 764126188,
+            "user": "user",
+            "text": "Yeah. Okay.",
+            "created_at": "2026-06-19T06:34:53.741Z"
+        },
+        {
+            "id": 764126209,
+            "user": "assistant",
+            "text": "Thank you. I'm calling on behalf of a client named Jyothish who needs a plumber in Berlin. He has a pipe leakage in his kitchen and is looking for someone to repair it. Are you available for this kind of work?",
+            "created_at": "2026-06-19T06:34:58.386Z"
+        },
+        {
+            "id": 764126311,
+            "user": "user",
+            "text": "Okay. I am available for this work. But about the price, I'm not that much good because six hundred euros is too low.",
+            "created_at": "2026-06-19T06:35:16.240Z"
+        },
+        {
+            "id": 764126320,
+            "user": "assistant",
+            "text": "I understa-",
+            "created_at": "2026-06-19T06:35:17.215Z"
+        },
+        {
+            "id": 764126329,
+            "user": "user",
+            "text": "You increase the amount?",
+            "created_at": "2026-06-19T06:35:18.204Z"
+        },
+        {
+            "id": 764126343,
+            "user": "assistant",
+            "text": "I understand completely. My client is willing to pay six hundred euros for the repair. Is there a specific amount you would consider fair for this job?",
+            "created_at": "2026-06-19T06:35:19.842Z"
+        },
+        {
+            "id": 764126414,
+            "user": "user",
+            "text": "Seven hundred euros will be fine.",
+            "created_at": "2026-06-19T06:35:31.650Z"
+        },
+        {
+            "id": 764126436,
+            "user": "assistant",
+            "text": "I see. Let me check with my client regarding the adjustment to seven hundred euros. If he agrees to that price, would you be available to come next Monday at ten in the morning?",
+            "created_at": "2026-06-19T06:35:36.571Z"
+        },
+        {
+            "id": 764126500,
+            "user": "user",
+            "text": "Yes. I see the okay with that price, I will be available totally.",
+            "created_at": "2026-06-19T06:35:46.519Z"
+        },
+        {
+            "id": 764126509,
+            "user": "assistant",
+            "text": "That sounds great. I will confirm the details with my client and get back to you shortly to finalize everything. Thank you very much for your time today. Have a wonderful day ahead. Goodbye.",
+            "created_at": "2026-06-19T06:35:47.998Z"
+        },
+        {
+            "id": 764126611,
+            "user": "assistant",
+            "text": "Goodbye.",
+            "created_at": "2026-06-19T06:36:04.987Z"
+        },
+        {
+            "id": 764126612,
+            "user": "agent-action",
+            "text": "Ended call",
+            "created_at": "2026-06-19T06:36:04.987Z"
+        }
+    ],
+    "corrected_duration": "81",
+    "end_at": "2026-06-19T06:36:05.000Z",
+    "dispositions": [],
+    "voice_id": "2cc39317-4835-4cbc-b625-fbf6b7f5c5cb"
+}

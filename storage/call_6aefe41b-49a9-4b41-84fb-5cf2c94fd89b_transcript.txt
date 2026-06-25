@@ -1,0 +1,14 @@
+=== CALL TRANSCRIPT ===
+Call ID: 6aefe41b-49a9-4b41-84fb-5cf2c94fd89b
+To: +919061975879
+Date: 2026-06-22T10:37:18.457Z
+Duration: 0.666666666666667 mins
+Summary: Ein Kundenvertreter von TaskMeister, Avira, kontaktiert einen potenziellen Dienstleister, um zu erfahren, ob dieser einen Auftrag als Klempner in Berlin übernehmen kann, da ein Kunde aufgrund eines Rohrlecks dringend Hilfe benötigt. Der Dienstleister bestätigt, dass das Gespräch auf Deutsch weitergeführt werden soll. Eine endgültige Zusage oder Ablehnung des Auftrags durch den Dienstleister wird im bereitgestellten Transkript nicht gemacht.
+========================
+
+Assistant: Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schönen Tag. Hätten Sie kurz einen Moment Zeit?
+Assistant: Hallo? Ist Rishi am A-
+User: Hallo?
+Assistant: Hallo! Hier ist Avira von TaskMeister. Ich rufe Sie an, weil ein Kunde einen Klempner in Berlin benötigt, da es ein Rohrleck gibt. Können Sie dabei helfen?
+User: Und kein Englisch.
+Assistant: Verstanden. Ich spreke weiter Deutsch. Ein Kunde benötigt dringend einen Klempner in Berlin wegen eines Rohrlecks. Können Sie diesen Auftrag übernehmen?

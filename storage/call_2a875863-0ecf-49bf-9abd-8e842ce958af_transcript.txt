@@ -1,0 +1,21 @@
+=== CALL TRANSCRIPT ===
+Call ID: 2a875863-0ecf-49bf-9abd-8e842ce958af
+To: +919061975879
+Date: 2026-06-19T06:20:28.581Z
+Duration: 0.95 mins
+Summary: The call was between a TaskMeister representative, Avira, and a user regarding a potential plumbing job in Berlin. The client, Jyothish, needs a pipe leakage repaired in his kitchen and is offering 600 euros for the service, to be completed by next Monday at 10 am. The user initially expressed interest but ultimately declined due to a payment mismatch, requesting payment in rupees instead of euros. As a result, the call was ended, and the job opportunity was not accepted.
+========================
+
+Assistant: Hello, I hope you're doing well today. This is Avira calling from TaskMeister. Do you have a quick moment to speak with me?
+User: Yeah.
+Assistant: Great. I'-
+User: And, Chan, why did you call me?
+Assistant: I'm calling on behalf of a client named Jyothish who needs a plumber in Berlin. He has a pipe leakage in his kitchen and is willing to pay six hundred euros for the repair. He needs the service by next Monday at ten a m. Are you available to take on this job?
+User: Yes. Okay. I'm available, but I need the cash and rupees.
+Assistant: I understand you need cash, but the payment is six hundred euros. Is that acceptable for you?
+User: No. I said I don't need euros. I need a new rupees.
+Assistant: I apologize, but my client can only pay in euros. Since that doesn't work for you, I'll have to end the call. Thank you for your time.
+User: Okay.
+Assistant: Goodbye.
+Agent-action: Ended call
+User: I don't see. Go bring it up

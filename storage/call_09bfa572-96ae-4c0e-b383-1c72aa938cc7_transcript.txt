@@ -1,0 +1,14 @@
+=== CALL TRANSCRIPT ===
+Call ID: 09bfa572-96ae-4c0e-b383-1c72aa938cc7
+To: +918590421739
+Date: 2026-06-11T11:08:48.869Z
+Duration: 0.366666666666667 mins
+Summary: The call appears to be about an assistant instructing a user, Sree, to go home, which Sree reluctantly resists. The user expresses frustration and mentions that the air is being rude, but the context of this statement is unclear. The call ends abruptly with Sree still refusing to comply, suggesting a possible misunderstanding or unresolved issue.
+========================
+
+Assistant: Sree, go home.
+User: Go home. Wait. I don't want to go home, please.
+Assistant: You have to go home, Sree.
+User: My air is being so rude.
+Assistant: I'm just following instructions. Please go home.
+User: No. I guess I

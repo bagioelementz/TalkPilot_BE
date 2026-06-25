@@ -1,0 +1,268 @@
+{
+    "call_id": "1ecde010-f2ac-45ff-84e5-6764a5f164cb",
+    "c_id": "1ecde010-f2ac-45ff-84e5-6764a5f164cb",
+    "created_at": "2026-06-17T07:46:45.224Z",
+    "updated_at": "2026-06-17T07:50:24.109Z",
+    "call_length": null,
+    "to": "+919207404774",
+    "from": "+16076788420",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Wednesday, June 17, 2026 12:47 AM",
+        "now_utc": "Wednesday, June 17, 2026 7:47 AM",
+        "short_from": "6076788420",
+        "short_to": "9207404774",
+        "from": "+16076788420",
+        "to": "+919207404774",
+        "call_id": "1ecde010-f2ac-45ff-84e5-6764a5f164cb",
+        "phone_number": "+919207404774",
+        "country": "IN",
+        "state": "Assam",
+        "language": "English",
+        "timestamp": "2026-06-17T00:47:49-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-17T07:47:49.160Z",
+    "record": false,
+    "recording_url": null,
+    "summary": null,
+    "local_dialing": false,
+    "price": 0,
+    "call_ended_by": "ASSISTANT",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Hello, I'm Avira, the AI conversation agent from Task Meister. \n user: Hi. \n assistant: I'm calling on behalf of a client named Ronaldo. He has a toilet pipe leakage that needs to be fixed at his location in Berlin. He needs the service done by tomorrow at ten A M, and his budget is under six hundred euros. Are you available to take this job? \n user: No. I'm not available. \n assistant: Okay, thank you for your time. Have a good day. \n user: How's that cable going? \n assistant: I'm sorry, I'm not sure what you mean by that. I was just calling about the plumbing job for Ronaldo. Since you're not available, I'll let you go. Have a good day. \n user: I mean, I'm not no. I'm not available. \n assistant: Understood. Thank you for letting me know. \n user: I've called a few times. \n assistant: I see. Well, I won't keep you any longer. Goodbye. \n user: I'm sorry. I'm not able to understand what you're saying. \n assistant: I apologize for the con- \n user: Hello? \n assistant: Hello. I'm calling about a plumbing job in Berlin for a client named Ronaldo. He has a toilet pipe leak that needs to be fixed by tomorrow morning at ten A M. His budget is under six hundred euros. Are you available? \n user: I'm good. You are at seven hundred euros. \n assistant: Seven hundred is a bit over the budget. The client is hoping to stay under six hundred. Is there any way you could do it for five hundred and fifty? \n user: Okay. \n assistant: Great. So you can do the job for five hundred and fifty euros by tomorrow at ten A M? \n user: Yes. \n assistant: Excellent. The address is in Berlin. Could you provide your name and phone number so I can pass the details along to Ronaldo? \n user: Okay. \n assistant: Go ahead. \n user: Name is Sihari. \n assistant: Got it, Sihari. And what is your phone number? \n user: Phone numb. \n user: One one zero eight. \n assistant: Is that the full number? It seems a bit short. \n user: Yes. \n assistant: Okay, thank you. I'll let - \n user: One zero eight one zero eight one zero eight. \n assistant: Got it. One zero eight one zero eight one zero eight. Thank you, Sihari. I'll pass your information to Ronaldo and he will be in touch. Goodbye. \n assistant: Goodbye. \n agent-action: Ended call \n ",
+    "transcripts": [
+        {
+            "id": 759371375,
+            "user": "assistant",
+            "text": "Hello, I'm Avira, the AI conversation agent from Task Meister.",
+            "created_at": "2026-06-17T07:47:50.412Z"
+        },
+        {
+            "id": 759371426,
+            "user": "user",
+            "text": "Hi.",
+            "created_at": "2026-06-17T07:47:56.288Z"
+        },
+        {
+            "id": 759371461,
+            "user": "assistant",
+            "text": "I'm calling on behalf of a client named Ronaldo. He has a toilet pipe leakage that needs to be fixed at his location in Berlin. He needs the service done by tomorrow at ten A M, and his budget is under six hundred euros. Are you available to take this job?",
+            "created_at": "2026-06-17T07:47:59.255Z"
+        },
+        {
+            "id": 759371605,
+            "user": "user",
+            "text": "No. I'm not available.",
+            "created_at": "2026-06-17T07:48:14.148Z"
+        },
+        {
+            "id": 759371621,
+            "user": "assistant",
+            "text": "Okay, thank you for your time. Have a good day.",
+            "created_at": "2026-06-17T07:48:15.934Z"
+        },
+        {
+            "id": 759371676,
+            "user": "user",
+            "text": "How's that cable going?",
+            "created_at": "2026-06-17T07:48:23.428Z"
+        },
+        {
+            "id": 759371696,
+            "user": "assistant",
+            "text": "I'm sorry, I'm not sure what you mean by that. I was just calling about the plumbing job for Ronaldo. Since you're not available, I'll let you go. Have a good day.",
+            "created_at": "2026-06-17T07:48:25.843Z"
+        },
+        {
+            "id": 759371754,
+            "user": "user",
+            "text": "I mean, I'm not no. I'm not available.",
+            "created_at": "2026-06-17T07:48:36.765Z"
+        },
+        {
+            "id": 759371761,
+            "user": "assistant",
+            "text": "Understood. Thank you for letting me know.",
+            "created_at": "2026-06-17T07:48:37.240Z"
+        },
+        {
+            "id": 759371763,
+            "user": "user",
+            "text": "I've called a few times.",
+            "created_at": "2026-06-17T07:48:37.468Z"
+        },
+        {
+            "id": 759371782,
+            "user": "assistant",
+            "text": "I see. Well, I won't keep you any longer. Goodbye.",
+            "created_at": "2026-06-17T07:48:40.145Z"
+        },
+        {
+            "id": 759371806,
+            "user": "user",
+            "text": "I'm sorry. I'm not able to understand what you're saying.",
+            "created_at": "2026-06-17T07:48:43.746Z"
+        },
+        {
+            "id": 759371822,
+            "user": "assistant",
+            "text": "I apologize for the con-",
+            "created_at": "2026-06-17T07:48:45.737Z"
+        },
+        {
+            "id": 759371836,
+            "user": "user",
+            "text": "Hello?",
+            "created_at": "2026-06-17T07:48:47.758Z"
+        },
+        {
+            "id": 759371865,
+            "user": "assistant",
+            "text": "Hello. I'm calling about a plumbing job in Berlin for a client named Ronaldo. He has a toilet pipe leak that needs to be fixed by tomorrow morning at ten A M. His budget is under six hundred euros. Are you available?",
+            "created_at": "2026-06-17T07:48:52.261Z"
+        },
+        {
+            "id": 759371920,
+            "user": "user",
+            "text": "I'm good. You are at seven hundred euros.",
+            "created_at": "2026-06-17T07:49:02.888Z"
+        },
+        {
+            "id": 759371932,
+            "user": "assistant",
+            "text": "Seven hundred is a bit over the budget. The client is hoping to stay under six hundred. Is there any way you could do it for five hundred and fifty?",
+            "created_at": "2026-06-17T07:49:05.437Z"
+        },
+        {
+            "id": 759371987,
+            "user": "user",
+            "text": "Okay.",
+            "created_at": "2026-06-17T07:49:14.691Z"
+        },
+        {
+            "id": 759372015,
+            "user": "assistant",
+            "text": "Great. So you can do the job for five hundred and fifty euros by tomorrow at ten A M?",
+            "created_at": "2026-06-17T07:49:19.341Z"
+        },
+        {
+            "id": 759372034,
+            "user": "user",
+            "text": "Yes.",
+            "created_at": "2026-06-17T07:49:22.755Z"
+        },
+        {
+            "id": 759372051,
+            "user": "assistant",
+            "text": "Excellent. The address is in Berlin. Could you provide your name and phone number so I can pass the details along to Ronaldo?",
+            "created_at": "2026-06-17T07:49:25.465Z"
+        },
+        {
+            "id": 759372098,
+            "user": "user",
+            "text": "Okay.",
+            "created_at": "2026-06-17T07:49:33.951Z"
+        },
+        {
+            "id": 759372105,
+            "user": "assistant",
+            "text": "Go ahead.",
+            "created_at": "2026-06-17T07:49:35.014Z"
+        },
+        {
+            "id": 759372144,
+            "user": "user",
+            "text": "Name is Sihari.",
+            "created_at": "2026-06-17T07:49:42.944Z"
+        },
+        {
+            "id": 759372149,
+            "user": "assistant",
+            "text": "Got it, Sihari. And what is your phone number?",
+            "created_at": "2026-06-17T07:49:44.356Z"
+        },
+        {
+            "id": 759372167,
+            "user": "user",
+            "text": "Phone numb.",
+            "created_at": "2026-06-17T07:49:46.708Z"
+        },
+        {
+            "id": 759372179,
+            "user": "user",
+            "text": "One one zero eight.",
+            "created_at": "2026-06-17T07:49:48.810Z"
+        },
+        {
+            "id": 759372186,
+            "user": "assistant",
+            "text": "Is that the full number? It seems a bit short.",
+            "created_at": "2026-06-17T07:49:50.555Z"
+        },
+        {
+            "id": 759372197,
+            "user": "user",
+            "text": "Yes.",
+            "created_at": "2026-06-17T07:49:53.069Z"
+        },
+        {
+            "id": 759372201,
+            "user": "assistant",
+            "text": "Okay, thank you. I'll let -",
+            "created_at": "2026-06-17T07:49:54.349Z"
+        },
+        {
+            "id": 759372210,
+            "user": "user",
+            "text": "One zero eight one zero eight one zero eight.",
+            "created_at": "2026-06-17T07:49:56.927Z"
+        },
+        {
+            "id": 759372225,
+            "user": "assistant",
+            "text": "Got it. One zero eight one zero eight one zero eight. Thank you, Sihari. I'll pass your information to Ronaldo and he will be in touch. Goodbye.",
+            "created_at": "2026-06-17T07:50:03.031Z"
+        },
+        {
+            "id": 759372282,
+            "user": "assistant",
+            "text": "Goodbye.",
+            "created_at": "2026-06-17T07:50:17.148Z"
+        },
+        {
+            "id": 759372284,
+            "user": "agent-action",
+            "text": "Ended call",
+            "created_at": "2026-06-17T07:50:17.148Z"
+        }
+    ],
+    "corrected_duration": "149",
+    "end_at": "2026-06-17T07:50:17.000Z",
+    "dispositions": [],
+    "voice_id": "2cc39317-4835-4cbc-b625-fbf6b7f5c5cb"
+}

@@ -1,0 +1,129 @@
+{
+    "call_id": "60bb1c68-eebe-43a2-8b4f-7bca62c97323",
+    "c_id": "60bb1c68-eebe-43a2-8b4f-7bca62c97323",
+    "created_at": "2026-06-17T07:44:29.231Z",
+    "updated_at": "2026-06-17T07:46:13.663Z",
+    "call_length": 1.38333333333333,
+    "to": "+918590421739",
+    "from": "+14066258092",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Wednesday, June 17, 2026 12:44 AM",
+        "now_utc": "Wednesday, June 17, 2026 7:44 AM",
+        "short_from": "4066258092",
+        "short_to": "8590421739",
+        "from": "+14066258092",
+        "to": "+918590421739",
+        "call_id": "60bb1c68-eebe-43a2-8b4f-7bca62c97323",
+        "phone_number": "+918590421739",
+        "country": "IN",
+        "language": "English",
+        "timestamp": "2026-06-17T00:44:44-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-17T07:44:43.000Z",
+    "record": false,
+    "recording_url": null,
+    "summary": "The call was between Avira, an AI conversation agent, and a user regarding a job offer to fix a toilet pipe leakage at a client's location in Berlin. The client, Ronaldo, had a budget of under 600 euros and needed the job done by 10 AM the next day. The user initially declined the offer due to the low budget, requiring a minimum of 700 euros. However, after further discussion, the user ultimately accepted the job at the original price of 600 euros, confirming their availability to complete the task by the required deadline.",
+    "local_dialing": false,
+    "price": 0.194,
+    "call_ended_by": "USER",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Hello, I'm Avira, the AI conversation agent from Task Meister. \n user: Hi, Avira. Why did you call me? \n assistant: I'm calling on behalf of a client named Ronaldo. He has a toilet pipe leakage that needs to be fixed at his location in Berlin. He needs the service done by tomorrow at ten A M, and his budget is under six hundred euros. Are you available to take this job? \n user: Yes. I am available, but six hundred euros is too less. I need minimum seven hundred euros. \n assistant: I understand seven hundred is your rate. My client's budget is strictly capped at six hundred. Is there any way you could accommodate this price given the urgency of the repair? \n user: No. No. Please adjust. I need some other euros for this job. \n assistant: I appreciate your time, but my client cannot exceed the six hundred euro limit. I'll have to look for another provider. Thank you anyway. \n user: Okay. Fine. I will accept the offer. \n assistant: Great, that works. Can you confirm you can be at his location in Berlin by ten A M tomorrow to fix the toilet pipe leakage? \n user: Okay. Thank you. \n assistant: Perfect. I'll send you the address details shortly. Thanks for accepting the job. Have a good day. \n ",
+    "transcripts": [
+        {
+            "id": 759369623,
+            "user": "assistant",
+            "text": "Hello, I'm Avira, the AI conversation agent from Task Meister.",
+            "created_at": "2026-06-17T07:44:45.945Z"
+        },
+        {
+            "id": 759369670,
+            "user": "user",
+            "text": "Hi, Avira. Why did you call me?",
+            "created_at": "2026-06-17T07:44:52.824Z"
+        },
+        {
+            "id": 759369687,
+            "user": "assistant",
+            "text": "I'm calling on behalf of a client named Ronaldo. He has a toilet pipe leakage that needs to be fixed at his location in Berlin. He needs the service done by tomorrow at ten A M, and his budget is under six hundred euros. Are you available to take this job?",
+            "created_at": "2026-06-17T07:44:55.698Z"
+        },
+        {
+            "id": 759369821,
+            "user": "user",
+            "text": "Yes. I am available, but six hundred euros is too less. I need minimum seven hundred euros.",
+            "created_at": "2026-06-17T07:45:15.785Z"
+        },
+        {
+            "id": 759369835,
+            "user": "assistant",
+            "text": "I understand seven hundred is your rate. My client's budget is strictly capped at six hundred. Is there any way you could accommodate this price given the urgency of the repair?",
+            "created_at": "2026-06-17T07:45:18.398Z"
+        },
+        {
+            "id": 759369925,
+            "user": "user",
+            "text": "No. No. Please adjust. I need some other euros for this job.",
+            "created_at": "2026-06-17T07:45:32.061Z"
+        },
+        {
+            "id": 759369933,
+            "user": "assistant",
+            "text": "I appreciate your time, but my client cannot exceed the six hundred euro limit. I'll have to look for another provider. Thank you anyway.",
+            "created_at": "2026-06-17T07:45:33.483Z"
+        },
+        {
+            "id": 759370016,
+            "user": "user",
+            "text": "Okay. Fine. I will accept the offer.",
+            "created_at": "2026-06-17T07:45:43.636Z"
+        },
+        {
+            "id": 759370031,
+            "user": "assistant",
+            "text": "Great, that works. Can you confirm you can be at his location in Berlin by ten A M tomorrow to fix the toilet pipe leakage?",
+            "created_at": "2026-06-17T07:45:45.173Z"
+        },
+        {
+            "id": 759370093,
+            "user": "user",
+            "text": "Okay. Thank you.",
+            "created_at": "2026-06-17T07:45:53.920Z"
+        },
+        {
+            "id": 759370113,
+            "user": "assistant",
+            "text": "Perfect. I'll send you the address details shortly. Thanks for accepting the job. Have a good day.",
+            "created_at": "2026-06-17T07:45:57.198Z"
+        }
+    ],
+    "corrected_duration": "83",
+    "end_at": "2026-06-17T07:46:06.000Z",
+    "dispositions": [],
+    "voice_id": "2cc39317-4835-4cbc-b625-fbf6b7f5c5cb"
+}

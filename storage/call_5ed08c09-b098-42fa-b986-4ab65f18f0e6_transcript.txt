@@ -1,0 +1,22 @@
+=== CALL TRANSCRIPT ===
+Call ID: 5ed08c09-b098-42fa-b986-4ab65f18f0e6
+To: +919061975879
+Date: 2026-06-16T10:58:57.369Z
+Duration: None mins
+Summary: None
+========================
+
+Assistant: Hello, I'm Avira, the AI conversation agent from Task Meister.
+User: Hello?
+Assistant: Guten Morgen. Ich rufe im Auftrag von einem Kunden, Herrn Ronaldo. Er hat ein Problem mit einem undichten Toilettrohr und benötigt einen Klempner in Berlin. Können Sie helfen?
+User: Yeah.
+Assistant: Super. Es ist ein undichtes Rohr an der Toilette. Wir müssen das dringend beheben lassen. Wann könnten Sie morgen kommen? Der Kunde benötigt den Service bis morgen um zehn Uhr morgens.
+User: Before
+Assistant: Verstanden, vor zehn Uhr. Können Sie einen Termin für morgen früh bestätigen? Und was würde das ungefähr kosten? Das Budget liegt bei unter sechshundert Euro.
+Assistant: Hallo? Sind Sie noch dran?
+User: Yeah.
+Assistant: Können Sie uns einen Preis nennen? Wir haben ein Budget von sechshundert Euro für die Reparatur.
+User: Yeah. Get now.
+Assistant: Entschuldigung, ich habe Sie nicht ganz verstanden. Meinen Sie, Sie können das Preisangebot jetzt geben?
+User: It's ten in an f and then for bint
+Assistant: Entschuldigung, die Verbindung ist etwas schlecht. Können Sie den Preis bitte wiederholen oder buchstabieren? Es geht um das Budget von sechshundert Euro.

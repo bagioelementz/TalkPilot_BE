@@ -1,0 +1,16 @@
+=== CALL TRANSCRIPT ===
+Call ID: 7f8e5bd3-b39d-47b1-a5fe-cdcebde6690e
+To: +918590421739
+Date: 2026-06-11T06:38:38.139Z
+Duration: 0.366666666666667 mins
+Summary: The caller, an automated or representative assistant, contacted the user to remind them of an upcoming deadline to complete a course by Monday. The user inquired about the assistant's identity, but it was not provided due to unspecified privacy or policy reasons. Despite the lack of personal introduction, the user acknowledged the reminder and the call was ended.
+========================
+
+Assistant: Please complete your course by this Monday.
+User: Okay. Who are you?
+Assistant: I'm calling to remind you to finish your course by Monday.
+User: Okay. What's your name?
+Assistant: I can't give you my name, but I just needed to let you know about the deadline.
+User: Okay. Fine. Thank you.
+Agent-action: Ended call
+Assistant: You're welcome. Goodbye.

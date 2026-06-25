@@ -1,0 +1,111 @@
+{
+    "call_id": "7f8e5bd3-b39d-47b1-a5fe-cdcebde6690e",
+    "c_id": "7f8e5bd3-b39d-47b1-a5fe-cdcebde6690e",
+    "created_at": "2026-06-11T06:38:38.139Z",
+    "updated_at": "2026-06-11T06:39:16.228Z",
+    "call_length": 0.366666666666667,
+    "to": "+918590421739",
+    "from": "+12076871788",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Wednesday, June 10, 2026 11:38 PM",
+        "now_utc": "Thursday, June 11, 2026 6:38 AM",
+        "short_from": "2076871788",
+        "short_to": "8590421739",
+        "from": "+12076871788",
+        "to": "+918590421739",
+        "call_id": "7f8e5bd3-b39d-47b1-a5fe-cdcebde6690e",
+        "phone_number": "+918590421739",
+        "country": "IN",
+        "language": "English",
+        "timestamp": "2026-06-10T23:38:47-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-11T06:38:46.000Z",
+    "record": false,
+    "recording_url": null,
+    "summary": "The caller, an automated or representative assistant, contacted the user to remind them of an upcoming deadline to complete a course by Monday. The user inquired about the assistant's identity, but it was not provided due to unspecified privacy or policy reasons. Despite the lack of personal introduction, the user acknowledged the reminder and the call was ended.",
+    "local_dialing": false,
+    "price": 0.052,
+    "call_ended_by": "ASSISTANT",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Please complete your course by this Monday. \n user: Okay. Who are you? \n assistant: I'm calling to remind you to finish your course by Monday. \n user: Okay. What's your name? \n assistant: I can't give you my name, but I just needed to let you know about the deadline. \n user: Okay. Fine. Thank you. \n agent-action: Ended call \n assistant: You're welcome. Goodbye. \n ",
+    "transcripts": [
+        {
+            "id": 747923329,
+            "user": "assistant",
+            "text": "Please complete your course by this Monday.",
+            "created_at": "2026-06-11T06:38:49.650Z"
+        },
+        {
+            "id": 747923347,
+            "user": "user",
+            "text": "Okay. Who are you?",
+            "created_at": "2026-06-11T06:38:52.833Z"
+        },
+        {
+            "id": 747923366,
+            "user": "assistant",
+            "text": "I'm calling to remind you to finish your course by Monday.",
+            "created_at": "2026-06-11T06:38:55.958Z"
+        },
+        {
+            "id": 747923384,
+            "user": "user",
+            "text": "Okay. What's your name?",
+            "created_at": "2026-06-11T06:38:58.795Z"
+        },
+        {
+            "id": 747923394,
+            "user": "assistant",
+            "text": "I can't give you my name, but I just needed to let you know about the deadline.",
+            "created_at": "2026-06-11T06:39:00.259Z"
+        },
+        {
+            "id": 747923423,
+            "user": "user",
+            "text": "Okay. Fine. Thank you.",
+            "created_at": "2026-06-11T06:39:06.298Z"
+        },
+        {
+            "id": 747923438,
+            "user": "agent-action",
+            "text": "Ended call",
+            "created_at": "2026-06-11T06:39:07.993Z"
+        },
+        {
+            "id": 747923439,
+            "user": "assistant",
+            "text": "You're welcome. Goodbye.",
+            "created_at": "2026-06-11T06:39:07.993Z"
+        }
+    ],
+    "corrected_duration": "22",
+    "end_at": "2026-06-11T06:39:08.000Z",
+    "dispositions": [],
+    "voice_id": "2cc39317-4835-4cbc-b625-fbf6b7f5c5cb"
+}

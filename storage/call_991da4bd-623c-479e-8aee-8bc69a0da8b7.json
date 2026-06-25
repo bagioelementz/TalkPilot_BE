@@ -1,0 +1,100 @@
+{
+    "call_id": "991da4bd-623c-479e-8aee-8bc69a0da8b7",
+    "c_id": "991da4bd-623c-479e-8aee-8bc69a0da8b7",
+    "created_at": "2026-06-11T11:15:14.381Z",
+    "updated_at": "2026-06-11T11:15:48.375Z",
+    "call_length": null,
+    "to": "+919061975879",
+    "from": "+13613157648",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Thursday, June 11, 2026 4:15 AM",
+        "now_utc": "Thursday, June 11, 2026 11:15 AM",
+        "short_from": "3613157648",
+        "short_to": "9061975879",
+        "from": "+13613157648",
+        "to": "+919061975879",
+        "call_id": "991da4bd-623c-479e-8aee-8bc69a0da8b7",
+        "phone_number": "+919061975879",
+        "country": "IN",
+        "state": "Kerala",
+        "language": "English",
+        "timestamp": "2026-06-11T04:15:25-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-11T11:15:25.274Z",
+    "record": false,
+    "recording_url": null,
+    "summary": null,
+    "local_dialing": false,
+    "price": 0,
+    "call_ended_by": "ASSISTANT",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Hello, I'm Avira, the AI conversation agent from Task Meister. \n user: Hi. \n assistant: Hi Rishi, go home. \n user: I guess. \n assistant: Okay, bye. \n agent-action: Ended call \n ",
+    "transcripts": [
+        {
+            "id": 748060241,
+            "user": "assistant",
+            "text": "Hello, I'm Avira, the AI conversation agent from Task Meister.",
+            "created_at": "2026-06-11T11:15:26.643Z"
+        },
+        {
+            "id": 748060274,
+            "user": "user",
+            "text": "Hi.",
+            "created_at": "2026-06-11T11:15:32.385Z"
+        },
+        {
+            "id": 748060283,
+            "user": "assistant",
+            "text": "Hi Rishi, go home.",
+            "created_at": "2026-06-11T11:15:34.114Z"
+        },
+        {
+            "id": 748060336,
+            "user": "user",
+            "text": "I guess.",
+            "created_at": "2026-06-11T11:15:40.523Z"
+        },
+        {
+            "id": 748060345,
+            "user": "assistant",
+            "text": "Okay, bye.",
+            "created_at": "2026-06-11T11:15:41.786Z"
+        },
+        {
+            "id": 748060346,
+            "user": "agent-action",
+            "text": "Ended call",
+            "created_at": "2026-06-11T11:15:41.787Z"
+        }
+    ],
+    "corrected_duration": "18",
+    "end_at": "2026-06-11T11:15:42.000Z",
+    "dispositions": [],
+    "voice_id": "90295ec4-f0fe-4783-ab33-8b997ddc3ae4"
+}

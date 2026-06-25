@@ -1,0 +1,153 @@
+{
+    "call_id": "60a44001-8da6-406d-9a84-6430cafad52c",
+    "c_id": "60a44001-8da6-406d-9a84-6430cafad52c",
+    "created_at": "2026-06-17T09:34:22.418Z",
+    "updated_at": "2026-06-17T09:35:58.680Z",
+    "call_length": 0.983333333333333,
+    "to": "+4915171467800",
+    "from": "+441416730563",
+    "inbound": false,
+    "max_duration": 30,
+    "metadata": {},
+    "variables": {
+        "now": "Wednesday, June 17, 2026 2:34 AM",
+        "now_utc": "Wednesday, June 17, 2026 9:34 AM",
+        "short_from": "1416730563",
+        "short_to": "5171467800",
+        "from": "+441416730563",
+        "to": "+4915171467800",
+        "call_id": "60a44001-8da6-406d-9a84-6430cafad52c",
+        "phone_number": "+4915171467800",
+        "country": "DE",
+        "language": "English",
+        "timestamp": "2026-06-17T02:34:53-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-17T09:34:52.000Z",
+    "record": false,
+    "recording_url": null,
+    "summary": "The caller, Avira from Task Meister, contacted a service provider on behalf of a client named Ronaldo to fix a toilet pipe leakage in Berlin. The job needed to be completed by the next day at 10 AM with a budget of under 600 euros. Although the service provider initially quoted 700 euros, they eventually agreed to the 600-euro budget. The service provider confirmed their availability and willingness to complete the job within the specified timeframe and budget, and the call ended with the agreement being passed along to the client.",
+    "local_dialing": false,
+    "price": 0.138,
+    "call_ended_by": "ASSISTANT",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Hello, I'm Avira, the AI conversation agent from Task Meister. \n user: Right. \n assistant: I'm calling on behalf of a client named Ronaldo. He has a toilet pipe leakage that needs to be fixed at his location in Berlin. He needs the service done by tomorrow at ten A M, and his budget is under six hundred euros. Are you available to take this job? \n user: Yes. I'm available. \n assistant: Great. The budget is six hundred euros. Can you do it for that price? \n user: No. Maybe about seven hundred. Would that work for you? \n assistant: Unfortunately, the budget is strictly capped at six hundred euros. We can't go higher than that. \n user: Okay. Let's fix that. \n user: six hundred. \n assistant: Perfect. So you can do the job for six hundred euros by tomorrow at ten A M? \n user: Mhmm. Yeah. That'll work. \n assistant: Excellent. I'll pass this information along to Ronaldo. Thank you for your time. \n user: Thank you. Bye. \n assistant: Goodbye. \n agent-action: Ended call \n ",
+    "transcripts": [
+        {
+            "id": 759410948,
+            "user": "assistant",
+            "text": "Hello, I'm Avira, the AI conversation agent from Task Meister.",
+            "created_at": "2026-06-17T09:34:54.971Z"
+        },
+        {
+            "id": 759410966,
+            "user": "user",
+            "text": "Right.",
+            "created_at": "2026-06-17T09:34:59.597Z"
+        },
+        {
+            "id": 759410978,
+            "user": "assistant",
+            "text": "I'm calling on behalf of a client named Ronaldo. He has a toilet pipe leakage that needs to be fixed at his location in Berlin. He needs the service done by tomorrow at ten A M, and his budget is under six hundred euros. Are you available to take this job?",
+            "created_at": "2026-06-17T09:35:02.280Z"
+        },
+        {
+            "id": 759411031,
+            "user": "user",
+            "text": "Yes. I'm available.",
+            "created_at": "2026-06-17T09:35:15.014Z"
+        },
+        {
+            "id": 759411041,
+            "user": "assistant",
+            "text": "Great. The budget is six hundred euros. Can you do it for that price?",
+            "created_at": "2026-06-17T09:35:17.679Z"
+        },
+        {
+            "id": 759411077,
+            "user": "user",
+            "text": "No. Maybe about seven hundred. Would that work for you?",
+            "created_at": "2026-06-17T09:35:24.447Z"
+        },
+        {
+            "id": 759411088,
+            "user": "assistant",
+            "text": "Unfortunately, the budget is strictly capped at six hundred euros. We can't go higher than that.",
+            "created_at": "2026-06-17T09:35:28.117Z"
+        },
+        {
+            "id": 759411119,
+            "user": "user",
+            "text": "Okay. Let's fix that.",
+            "created_at": "2026-06-17T09:35:33.390Z"
+        },
+        {
+            "id": 759411122,
+            "user": "user",
+            "text": "six hundred.",
+            "created_at": "2026-06-17T09:35:33.791Z"
+        },
+        {
+            "id": 759411144,
+            "user": "assistant",
+            "text": "Perfect. So you can do the job for six hundred euros by tomorrow at ten A M?",
+            "created_at": "2026-06-17T09:35:38.532Z"
+        },
+        {
+            "id": 759411158,
+            "user": "user",
+            "text": "Mhmm. Yeah. That'll work.",
+            "created_at": "2026-06-17T09:35:41.651Z"
+        },
+        {
+            "id": 759411172,
+            "user": "assistant",
+            "text": "Excellent. I'll pass this information along to Ronaldo. Thank you for your time.",
+            "created_at": "2026-06-17T09:35:44.890Z"
+        },
+        {
+            "id": 759411205,
+            "user": "user",
+            "text": "Thank you. Bye.",
+            "created_at": "2026-06-17T09:35:49.703Z"
+        },
+        {
+            "id": 759411214,
+            "user": "assistant",
+            "text": "Goodbye.",
+            "created_at": "2026-06-17T09:35:50.705Z"
+        },
+        {
+            "id": 759411215,
+            "user": "agent-action",
+            "text": "Ended call",
+            "created_at": "2026-06-17T09:35:50.705Z"
+        }
+    ],
+    "corrected_duration": "59",
+    "end_at": "2026-06-17T09:35:51.000Z",
+    "dispositions": [],
+    "voice_id": "2cc39317-4835-4cbc-b625-fbf6b7f5c5cb"
+}

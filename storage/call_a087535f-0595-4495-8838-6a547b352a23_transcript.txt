@@ -1,0 +1,16 @@
+=== CALL TRANSCRIPT ===
+Call ID: a087535f-0595-4495-8838-6a547b352a23
+To: +919061975879
+Date: 2026-06-11T06:05:03.676Z
+Duration: 0.483333333333333 mins
+Summary: Not enough information to generate summary.
+========================
+
+Assistant: Hallo Rishi, hier ist Task Meister. Iss bitte dein Mittagessen.
+User: I'll speak something.
+Assistant: Okay, mach das. Tschüss!
+User: Hello? Yeah. Hello?
+Assistant: Hallo Rishi, iss bitte dein Mittagessen.
+User: Then it
+Assistant: Tschüss.
+Agent-action: Ended call

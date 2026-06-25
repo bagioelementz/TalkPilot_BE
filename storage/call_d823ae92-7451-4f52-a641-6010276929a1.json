@@ -1,0 +1,147 @@
+{
+    "call_id": "d823ae92-7451-4f52-a641-6010276929a1",
+    "c_id": "d823ae92-7451-4f52-a641-6010276929a1",
+    "created_at": "2026-06-11T11:31:37.858Z",
+    "updated_at": "2026-06-11T11:33:16.124Z",
+    "call_length": null,
+    "to": "+918590421739",
+    "from": "+12093538753",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Thursday, June 11, 2026 4:31 AM",
+        "now_utc": "Thursday, June 11, 2026 11:31 AM",
+        "short_from": "2093538753",
+        "short_to": "8590421739",
+        "from": "+12093538753",
+        "to": "+918590421739",
+        "call_id": "d823ae92-7451-4f52-a641-6010276929a1",
+        "phone_number": "+918590421739",
+        "country": "IN",
+        "language": "English",
+        "timestamp": "2026-06-11T04:31:51-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-11T11:31:51.363Z",
+    "record": false,
+    "recording_url": null,
+    "summary": null,
+    "local_dialing": false,
+    "price": 0,
+    "call_ended_by": "ASSISTANT",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Hello, I'm Avira, the AI conversation agent from Task Meister. \n user: Okay, Avira. Why did you call me? \n assistant: I'm calling to help you find a plumber in Berlin. I understand you need one by tomorrow and are willing to pay six hundred euros. Is that correct? \n user: Yeah. Okay. Fine. It's fine for me. Thank you for calling me. \n assistant: Great. To get started, could you please tell me your name and the specific plumbing issue you're having? \n user: Okay. I'm having a, like, a bathroom leakage. So it's fine. Six hundred euros is fine. Thank you. Can we appoint it by next Monday? \n assistant: I thought you needed the plumber by tomorrow? You just mentioned next Monday. Which date would you prefer? \n user: Okay. Fine. Thank you. It's it's oh, it's that's enough. \n assistant: Okay, just to confirm, you need a plumber for a bathroom leakage in Berlin by tomorrow, Friday June twelfth, for six hundred euros. Is that right? \n user: Yes. Yes. That's fine. That's fine for me. \n assistant: Alright. I have your request. I'll look for a plumber in Berlin who can handle a bathroom leakage tomorrow for six hundred euros. We'll be in touch shortly to confirm the details. Have a good day. \n user: Okay. \n agent-action: Ended call \n assistant: Goodbye. \n ",
+    "transcripts": [
+        {
+            "id": 748070795,
+            "user": "assistant",
+            "text": "Hello, I'm Avira, the AI conversation agent from Task Meister.",
+            "created_at": "2026-06-11T11:31:52.510Z"
+        },
+        {
+            "id": 748070919,
+            "user": "user",
+            "text": "Okay, Avira. Why did you call me?",
+            "created_at": "2026-06-11T11:31:58.482Z"
+        },
+        {
+            "id": 748071006,
+            "user": "assistant",
+            "text": "I'm calling to help you find a plumber in Berlin. I understand you need one by tomorrow and are willing to pay six hundred euros. Is that correct?",
+            "created_at": "2026-06-11T11:32:01.576Z"
+        },
+        {
+            "id": 748071284,
+            "user": "user",
+            "text": "Yeah. Okay. Fine. It's fine for me. Thank you for calling me.",
+            "created_at": "2026-06-11T11:32:13.511Z"
+        },
+        {
+            "id": 748071312,
+            "user": "assistant",
+            "text": "Great. To get started, could you please tell me your name and the specific plumbing issue you're having?",
+            "created_at": "2026-06-11T11:32:14.951Z"
+        },
+        {
+            "id": 748071678,
+            "user": "user",
+            "text": "Okay. I'm having a, like, a bathroom leakage. So it's fine. Six hundred euros is fine. Thank you. Can we appoint it by next Monday?",
+            "created_at": "2026-06-11T11:32:31.224Z"
+        },
+        {
+            "id": 748071733,
+            "user": "assistant",
+            "text": "I thought you needed the plumber by tomorrow? You just mentioned next Monday. Which date would you prefer?",
+            "created_at": "2026-06-11T11:32:33.882Z"
+        },
+        {
+            "id": 748071955,
+            "user": "user",
+            "text": "Okay. Fine. Thank you. It's it's oh, it's that's enough.",
+            "created_at": "2026-06-11T11:32:44.437Z"
+        },
+        {
+            "id": 748071987,
+            "user": "assistant",
+            "text": "Okay, just to confirm, you need a plumber for a bathroom leakage in Berlin by tomorrow, Friday June twelfth, for six hundred euros. Is that right?",
+            "created_at": "2026-06-11T11:32:46.089Z"
+        },
+        {
+            "id": 748072213,
+            "user": "user",
+            "text": "Yes. Yes. That's fine. That's fine for me.",
+            "created_at": "2026-06-11T11:32:55.571Z"
+        },
+        {
+            "id": 748072256,
+            "user": "assistant",
+            "text": "Alright. I have your request. I'll look for a plumber in Berlin who can handle a bathroom leakage tomorrow for six hundred euros. We'll be in touch shortly to confirm the details. Have a good day.",
+            "created_at": "2026-06-11T11:32:57.693Z"
+        },
+        {
+            "id": 748072536,
+            "user": "user",
+            "text": "Okay.",
+            "created_at": "2026-06-11T11:33:08.541Z"
+        },
+        {
+            "id": 748072568,
+            "user": "agent-action",
+            "text": "Ended call",
+            "created_at": "2026-06-11T11:33:09.699Z"
+        },
+        {
+            "id": 748072569,
+            "user": "assistant",
+            "text": "Goodbye.",
+            "created_at": "2026-06-11T11:33:09.699Z"
+        }
+    ],
+    "corrected_duration": "80",
+    "end_at": "2026-06-11T11:33:10.000Z",
+    "dispositions": [],
+    "voice_id": "2cc39317-4835-4cbc-b625-fbf6b7f5c5cb"
+}

@@ -1,0 +1,201 @@
+{
+    "call_id": "8b0376cc-7098-4bc3-9996-3dad0fc99789",
+    "c_id": "8b0376cc-7098-4bc3-9996-3dad0fc99789",
+    "created_at": "2026-06-19T05:33:04.049Z",
+    "updated_at": "2026-06-19T05:34:59.515Z",
+    "call_length": null,
+    "to": "+4915171467800",
+    "from": "+441174634094",
+    "inbound": false,
+    "max_duration": 30,
+    "metadata": {},
+    "variables": {
+        "now": "Thursday, June 18, 2026 10:33 PM",
+        "now_utc": "Friday, June 19, 2026 5:33 AM",
+        "short_from": "1174634094",
+        "short_to": "5171467800",
+        "from": "+441174634094",
+        "to": "+4915171467800",
+        "call_id": "8b0376cc-7098-4bc3-9996-3dad0fc99789",
+        "phone_number": "+4915171467800",
+        "country": "DE",
+        "language": "English",
+        "timestamp": "2026-06-18T22:33:13-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-19T05:33:13.706Z",
+    "record": false,
+    "recording_url": null,
+    "summary": null,
+    "local_dialing": false,
+    "price": 0,
+    "call_ended_by": "USER",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Hello, I'm Avira, the AI conversation agent from Task Meister. \n user: Hello? \n assistant: Guten Abend. Ich rufe im Auftrag von John an. Er hat ein Problem mit einer undichten Wasserleitung in der Küche und sucht einen Handwerker in Berlin. Er benötigt die Reparatur bis nächsten Montag um zehn Uhr vormittags. Er ist bereit, sechshundert - \n user: Mhmm. \n assistant: Euro zu zahlen. Haben Sie am nächsten Montag um zehn Uhr Zeit für diesen Auftrag? \n user: Ishmael, unshowed, updated site, have \n assistant: Entschuldigung, die Verbindung ist etwas schlecht. Können Sie mir bitte sagen, ob Sie am nächsten Montag um zehn Uhr verfügbar sind und ob Sie den Auftrag für sechshundert Euro übernehmen würden? \n user: Yeah. \n assistant: Super, das klingt gut. Können wir den Termin für nächs- \n user: Nine \n assistant: ten Montag um zehn Uhr f- \n user: That's at nine nine. The \n assistant: Ah, Verzeihung. Meinten Sie neun Uhr neunundneunzig? Oder wann genau passt es Ihnen? \n user: Is it my \n assistant: Ja, ich frage, ob der Termin f- \n user: And should we go? It's lava it's lava to fish. Yeah. We are I Asmar, Ishamia, as Ishmael, then calendar and, Obishta, Dicai, Harvard, then Vadish, in, then straight to the site. \n assistant: Es tut mir leid, ich kann Sie leider n- \n user: see. Yeah. Yeah. The Harish \n assistant: nicht verstehen. Die Leitu- \n user: Yeah. The the site. Yeah. \n assistant: ng ist sehr schlecht. Ich rufe später wieder. Auf Wiedersehen. \n user: What? \n assistant: Auf Wiedersehen. \n ",
+    "transcripts": [
+        {
+            "id": 764096203,
+            "user": "assistant",
+            "text": "Hello, I'm Avira, the AI conversation agent from Task Meister.",
+            "created_at": "2026-06-19T05:33:14.944Z"
+        },
+        {
+            "id": 764096266,
+            "user": "user",
+            "text": "Hello?",
+            "created_at": "2026-06-19T05:33:21.432Z"
+        },
+        {
+            "id": 764096303,
+            "user": "assistant",
+            "text": "Guten Abend. Ich rufe im Auftrag von John an. Er hat ein Problem mit einer undichten Wasserleitung in der Küche und sucht einen Handwerker in Berlin. Er benötigt die Reparatur bis nächsten Montag um zehn Uhr vormittags. Er ist bereit, sechshundert -",
+            "created_at": "2026-06-19T05:33:24.646Z"
+        },
+        {
+            "id": 764096394,
+            "user": "user",
+            "text": "Mhmm.",
+            "created_at": "2026-06-19T05:33:34.894Z"
+        },
+        {
+            "id": 764096408,
+            "user": "assistant",
+            "text": "Euro zu zahlen. Haben Sie am nächsten Montag um zehn Uhr Zeit für diesen Auftrag?",
+            "created_at": "2026-06-19T05:33:36.462Z"
+        },
+        {
+            "id": 764096507,
+            "user": "user",
+            "text": "Ishmael, unshowed, updated site, have",
+            "created_at": "2026-06-19T05:33:46.695Z"
+        },
+        {
+            "id": 764096535,
+            "user": "assistant",
+            "text": "Entschuldigung, die Verbindung ist etwas schlecht. Können Sie mir bitte sagen, ob Sie am nächsten Montag um zehn Uhr verfügbar sind und ob Sie den Auftrag für sechshundert Euro übernehmen würden?",
+            "created_at": "2026-06-19T05:33:49.333Z"
+        },
+        {
+            "id": 764096662,
+            "user": "user",
+            "text": "Yeah.",
+            "created_at": "2026-06-19T05:34:02.579Z"
+        },
+        {
+            "id": 764096684,
+            "user": "assistant",
+            "text": "Super, das klingt gut. Können wir den Termin für nächs-",
+            "created_at": "2026-06-19T05:34:04.250Z"
+        },
+        {
+            "id": 764096706,
+            "user": "user",
+            "text": "Nine",
+            "created_at": "2026-06-19T05:34:07.939Z"
+        },
+        {
+            "id": 764096718,
+            "user": "assistant",
+            "text": "ten Montag um zehn Uhr f-",
+            "created_at": "2026-06-19T05:34:09.808Z"
+        },
+        {
+            "id": 764096783,
+            "user": "user",
+            "text": "That's at nine nine. The",
+            "created_at": "2026-06-19T05:34:16.465Z"
+        },
+        {
+            "id": 764096826,
+            "user": "assistant",
+            "text": "Ah, Verzeihung. Meinten Sie neun Uhr neunundneunzig? Oder wann genau passt es Ihnen?",
+            "created_at": "2026-06-19T05:34:20.167Z"
+        },
+        {
+            "id": 764096856,
+            "user": "user",
+            "text": "Is it my",
+            "created_at": "2026-06-19T05:34:24.270Z"
+        },
+        {
+            "id": 764096872,
+            "user": "assistant",
+            "text": "Ja, ich frage, ob der Termin f-",
+            "created_at": "2026-06-19T05:34:25.642Z"
+        },
+        {
+            "id": 764096988,
+            "user": "user",
+            "text": "And should we go? It's lava it's lava to fish. Yeah. We are I Asmar, Ishamia, as Ishmael, then calendar and, Obishta, Dicai, Harvard, then Vadish, in, then straight to the site.",
+            "created_at": "2026-06-19T05:34:38.474Z"
+        },
+        {
+            "id": 764097000,
+            "user": "assistant",
+            "text": "Es tut mir leid, ich kann Sie leider n-",
+            "created_at": "2026-06-19T05:34:39.609Z"
+        },
+        {
+            "id": 764097016,
+            "user": "user",
+            "text": "see. Yeah. Yeah. The Harish",
+            "created_at": "2026-06-19T05:34:41.128Z"
+        },
+        {
+            "id": 764097032,
+            "user": "assistant",
+            "text": "nicht verstehen. Die Leitu-",
+            "created_at": "2026-06-19T05:34:42.942Z"
+        },
+        {
+            "id": 764097057,
+            "user": "user",
+            "text": "Yeah. The the site. Yeah.",
+            "created_at": "2026-06-19T05:34:45.576Z"
+        },
+        {
+            "id": 764097077,
+            "user": "assistant",
+            "text": "ng ist sehr schlecht. Ich rufe später wieder. Auf Wiedersehen.",
+            "created_at": "2026-06-19T05:34:47.344Z"
+        },
+        {
+            "id": 764097114,
+            "user": "user",
+            "text": "What?",
+            "created_at": "2026-06-19T05:34:52.982Z"
+        },
+        {
+            "id": 764097123,
+            "user": "assistant",
+            "text": "Auf Wiedersehen.",
+            "created_at": "2026-06-19T05:34:53.840Z"
+        }
+    ],
+    "corrected_duration": "101",
+    "end_at": "2026-06-19T05:34:53.000Z",
+    "dispositions": [],
+    "voice_id": "2cc39317-4835-4cbc-b625-fbf6b7f5c5cb"
+}

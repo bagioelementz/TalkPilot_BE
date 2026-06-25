@@ -1,0 +1,129 @@
+{
+    "call_id": "2eb6b43e-9b55-47d1-ba12-a7561b269e8e",
+    "c_id": "2eb6b43e-9b55-47d1-ba12-a7561b269e8e",
+    "created_at": "2026-06-11T06:31:19.340Z",
+    "updated_at": "2026-06-11T06:32:13.280Z",
+    "call_length": 0.65,
+    "to": "+918590421739",
+    "from": "+15206197309",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Wednesday, June 10, 2026 11:31 PM",
+        "now_utc": "Thursday, June 11, 2026 6:31 AM",
+        "short_from": "5206197309",
+        "short_to": "8590421739",
+        "from": "+15206197309",
+        "to": "+918590421739",
+        "call_id": "2eb6b43e-9b55-47d1-ba12-a7561b269e8e",
+        "phone_number": "+918590421739",
+        "country": "IN",
+        "language": "English",
+        "timestamp": "2026-06-10T23:31:40-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-11T06:31:40.053Z",
+    "record": true,
+    "recording_url": "https://api.bland.ai/v1/recordings/2eb6b43e-9b55-47d1-ba12-a7561b269e8e",
+    "summary": null,
+    "local_dialing": false,
+    "price": 0.0585,
+    "call_ended_by": "ASSISTANT",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Hello! This is Antigravity AI. I'm just calling to check in and see how your day is going so far? \n user: Hello? Can you hear me? \n assistant: Yes, I can hear you loud and clear. I'm calling from Antigravity AI just to see how your day is going so far? \n user: Okay. My day is going good. \n assistant: That's great - \n user: So \n user: can you hire me \n assistant: I'm sorry, but I'm not able to help with hiring. I was just calling to check in and see how your day was going. Have a great day, goodbye! \n user: Okay. Can you please \n assistant: Have a wonderful day, goodbye! \n agent-action: Ended call \n ",
+    "transcripts": [
+        {
+            "id": 747921574,
+            "user": "assistant",
+            "text": "Hello! This is Antigravity AI. I'm just calling to check in and see how your day is going so far?",
+            "created_at": "2026-06-11T06:31:42.068Z"
+        },
+        {
+            "id": 747921598,
+            "user": "user",
+            "text": "Hello? Can you hear me?",
+            "created_at": "2026-06-11T06:31:49.015Z"
+        },
+        {
+            "id": 747921605,
+            "user": "assistant",
+            "text": "Yes, I can hear you loud and clear. I'm calling from Antigravity AI just to see how your day is going so far?",
+            "created_at": "2026-06-11T06:31:51.153Z"
+        },
+        {
+            "id": 747921613,
+            "user": "user",
+            "text": "Okay. My day is going good.",
+            "created_at": "2026-06-11T06:31:54.702Z"
+        },
+        {
+            "id": 747921620,
+            "user": "assistant",
+            "text": "That's great -",
+            "created_at": "2026-06-11T06:31:55.852Z"
+        },
+        {
+            "id": 747921626,
+            "user": "user",
+            "text": "So",
+            "created_at": "2026-06-11T06:31:57.072Z"
+        },
+        {
+            "id": 747921629,
+            "user": "user",
+            "text": "can you hire me",
+            "created_at": "2026-06-11T06:31:57.967Z"
+        },
+        {
+            "id": 747921632,
+            "user": "assistant",
+            "text": "I'm sorry, but I'm not able to help with hiring. I was just calling to check in and see how your day was going. Have a great day, goodbye!",
+            "created_at": "2026-06-11T06:31:58.763Z"
+        },
+        {
+            "id": 747921657,
+            "user": "user",
+            "text": "Okay. Can you please",
+            "created_at": "2026-06-11T06:32:05.027Z"
+        },
+        {
+            "id": 747921664,
+            "user": "assistant",
+            "text": "Have a wonderful day, goodbye!",
+            "created_at": "2026-06-11T06:32:06.839Z"
+        },
+        {
+            "id": 747921665,
+            "user": "agent-action",
+            "text": "Ended call",
+            "created_at": "2026-06-11T06:32:06.839Z"
+        }
+    ],
+    "corrected_duration": "39",
+    "end_at": "2026-06-11T06:32:07.000Z",
+    "dispositions": [],
+    "voice_id": "2cc39317-4835-4cbc-b625-fbf6b7f5c5cb"
+}

@@ -1,0 +1,25 @@
+=== CALL TRANSCRIPT ===
+Call ID: 5ab03a37-f135-445c-b5d6-0810d92534bb
+To: +919061975879
+Date: 2026-06-22T10:48:36.796Z
+Duration: None mins
+Summary: None
+========================
+
+User: Hello. <Block interruptions enabled. This message was ignored>
+Assistant: Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schönen Tag. Hätten Sie kurz einen Moment Zeit?
+User: Hello.
+Assistant: Hello! I'm Avira calling on behalf of a client who needs a plumber in Berlin for a pipe leak. Do you have availability to help with this?
+User: Who are you?
+Assistant: I am Avira from TaskMeister. We help connect clients with service providers. My client has a pipe leak in Berlin and needs a plumber urgently.
+User: Oh yeah, yes, I will be available.
+Assistant: That's great to hear. Could you please provide your name and phone number so I can pass your details along to the client?
+User: Why is that?
+Assistant: So the client can contact you directly to schedule the appointment and discuss the details of the pipe leak repair.
+User: Uh, what is the budget of the repair?
+Assistant: I don't have the specific budget details, but the client will discuss that with you directly when you connect.
+User: Okay, I will think and call.
+Assistant: Alright, thank you for your time. Have a nice day. Goodbye.
+User: And bye.
+Agent-action: Ended call
+Assistant: Goodbye.

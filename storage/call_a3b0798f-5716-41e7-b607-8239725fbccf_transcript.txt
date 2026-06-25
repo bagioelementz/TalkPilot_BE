@@ -1,0 +1,15 @@
+=== CALL TRANSCRIPT ===
+Call ID: a3b0798f-5716-41e7-b607-8239725fbccf
+To: +917094097739
+Date: 2026-06-24T05:36:15.201Z
+Duration: 0.683333333333333 mins
+Summary: The call was regarding a plumbing service request in Berlin, where a client named Sam needs help with a leaking pipe in their kitchen by next Monday at 10:00 AM with a budget of 600 EUR. However, the potential service provider informed the assistant that they are deaf, prompting the assistant to apologize and end the call due to the communication barrier.
+========================
+
+Assistant: Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schonen Tag. Ich rufe bezuglich einer Klempner-Serviceanfrage in Berlin an. Hatten Sie kurz einen Moment Zeit?
+User: Can I speak English?
+Assistant: Yes, of course. Our client, Sam, needs help with a leaking pipe in their kitchen. The service is needed by next Monday at 10:00 AM, and the estimated budget is around 600 EUR. Are you available and interested in taking the job?
+Assistant: Hello? Are you there?
+User: I'm deaf.
+Assistant: I apologize for the disturbance. Thank you for your time and have a nice day. Goodbye.
+Agent-action: Ended call

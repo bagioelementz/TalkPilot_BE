@@ -1,0 +1,14 @@
+=== CALL TRANSCRIPT ===
+Call ID: 991da4bd-623c-479e-8aee-8bc69a0da8b7
+To: +919061975879
+Date: 2026-06-11T11:15:14.381Z
+Duration: None mins
+Summary: None
+========================
+
+Assistant: Hello, I'm Avira, the AI conversation agent from Task Meister.
+User: Hi.
+Assistant: Hi Rishi, go home.
+User: I guess.
+Assistant: Okay, bye.
+Agent-action: Ended call

@@ -1,0 +1,9 @@
+=== CALL TRANSCRIPT ===
+Call ID: 3535afcf-f96b-4ec9-a3ad-23735105127a
+To: +917094097739
+Date: 2026-06-23T12:01:35.851Z
+Duration: 0.166666666666667 mins
+Summary: Der Anrufer, Avira von TaskMeister, kontaktiert den Angerufenen bezüglich einer Klempner-Serviceanfrage in Berlin und bittet um einen kurzen Moment Zeit, um das Thema zu besprechen.
+========================
+
+Assistant: Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schonen Tag. Ich rufe bezuglich einer Klempner-Serviceanfrage in Berlin an. Hatten Sie kurz einen Moment Zeit?

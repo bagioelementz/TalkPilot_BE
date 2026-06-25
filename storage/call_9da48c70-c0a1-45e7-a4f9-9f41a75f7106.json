@@ -1,0 +1,111 @@
+{
+    "call_id": "9da48c70-c0a1-45e7-a4f9-9f41a75f7106",
+    "c_id": "9da48c70-c0a1-45e7-a4f9-9f41a75f7106",
+    "created_at": "2026-06-11T11:17:46.264Z",
+    "updated_at": "2026-06-11T11:18:22.905Z",
+    "call_length": 0.316666666666667,
+    "to": "+918590421739",
+    "from": "+14786661490",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Thursday, June 11, 2026 4:17 AM",
+        "now_utc": "Thursday, June 11, 2026 11:17 AM",
+        "short_from": "4786661490",
+        "short_to": "8590421739",
+        "from": "+14786661490",
+        "to": "+918590421739",
+        "call_id": "9da48c70-c0a1-45e7-a4f9-9f41a75f7106",
+        "phone_number": "+918590421739",
+        "country": "IN",
+        "language": "English",
+        "timestamp": "2026-06-11T04:17:57-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-11T11:17:56.000Z",
+    "record": false,
+    "recording_url": null,
+    "summary": "The caller, an AI conversation agent named Avira from Task Meister, reached out to the user to inquire about plumber recommendations in Berlin. However, the user responded vaguely and the call was ended shortly after, without providing any useful information or assistance. The conversation was brief and unproductive.",
+    "local_dialing": false,
+    "price": 0.045,
+    "call_ended_by": "ASSISTANT",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Hello, I'm Avira, the AI conversation agent from Task Meister. \n user: Hello?  \n user: Okay. Why did you call me? \n assistant: I'm looking for a plumber in Berlin. Do you have any recommendations? \n user: Okay. Fine. Thank you. \n agent-action: Ended call \n assistant: Thank you for your time. \n agent-action: Ended call \n ",
+    "transcripts": [
+        {
+            "id": 748061643,
+            "user": "assistant",
+            "text": "Hello, I'm Avira, the AI conversation agent from Task Meister.",
+            "created_at": "2026-06-11T11:17:58.564Z"
+        },
+        {
+            "id": 748061649,
+            "user": "user",
+            "text": "Hello? ",
+            "created_at": "2026-06-11T11:17:59.259Z"
+        },
+        {
+            "id": 748061700,
+            "user": "user",
+            "text": "Okay. Why did you call me?",
+            "created_at": "2026-06-11T11:18:04.866Z"
+        },
+        {
+            "id": 748061723,
+            "user": "assistant",
+            "text": "I'm looking for a plumber in Berlin. Do you have any recommendations?",
+            "created_at": "2026-06-11T11:18:07.154Z"
+        },
+        {
+            "id": 748061778,
+            "user": "user",
+            "text": "Okay. Fine. Thank you.",
+            "created_at": "2026-06-11T11:18:12.734Z"
+        },
+        {
+            "id": 748061795,
+            "user": "agent-action",
+            "text": "Ended call",
+            "created_at": "2026-06-11T11:18:14.966Z"
+        },
+        {
+            "id": 748061796,
+            "user": "assistant",
+            "text": "Thank you for your time.",
+            "created_at": "2026-06-11T11:18:14.966Z"
+        },
+        {
+            "id": 748061797,
+            "user": "agent-action",
+            "text": "Ended call",
+            "created_at": "2026-06-11T11:18:14.992Z"
+        }
+    ],
+    "corrected_duration": "19",
+    "end_at": "2026-06-11T11:18:15.000Z",
+    "dispositions": [],
+    "voice_id": "2cc39317-4835-4cbc-b625-fbf6b7f5c5cb"
+}

@@ -1,0 +1,99 @@
+{
+    "call_id": "09bfa572-96ae-4c0e-b383-1c72aa938cc7",
+    "c_id": "09bfa572-96ae-4c0e-b383-1c72aa938cc7",
+    "created_at": "2026-06-11T11:08:48.869Z",
+    "updated_at": "2026-06-11T11:09:26.393Z",
+    "call_length": 0.366666666666667,
+    "to": "+918590421739",
+    "from": "+17542871698",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Thursday, June 11, 2026 4:08 AM",
+        "now_utc": "Thursday, June 11, 2026 11:08 AM",
+        "short_from": "7542871698",
+        "short_to": "8590421739",
+        "from": "+17542871698",
+        "to": "+918590421739",
+        "call_id": "09bfa572-96ae-4c0e-b383-1c72aa938cc7",
+        "phone_number": "+918590421739",
+        "country": "IN",
+        "language": "English",
+        "timestamp": "2026-06-11T04:08:58-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-11T11:08:57.000Z",
+    "record": false,
+    "recording_url": null,
+    "summary": "The call appears to be about an assistant instructing a user, Sree, to go home, which Sree reluctantly resists. The user expresses frustration and mentions that the air is being rude, but the context of this statement is unclear. The call ends abruptly with Sree still refusing to comply, suggesting a possible misunderstanding or unresolved issue.",
+    "local_dialing": false,
+    "price": 0.052,
+    "call_ended_by": "USER",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Sree, go home. \n user: Go home. Wait. I don't want to go home, please. \n assistant: You have to go home, Sree. \n user: My air is being so rude. \n assistant: I'm just following instructions. Please go home. \n user: No. I guess I \n ",
+    "transcripts": [
+        {
+            "id": 748056713,
+            "user": "assistant",
+            "text": "Sree, go home.",
+            "created_at": "2026-06-11T11:08:59.527Z"
+        },
+        {
+            "id": 748056752,
+            "user": "user",
+            "text": "Go home. Wait. I don't want to go home, please.",
+            "created_at": "2026-06-11T11:09:05.098Z"
+        },
+        {
+            "id": 748056767,
+            "user": "assistant",
+            "text": "You have to go home, Sree.",
+            "created_at": "2026-06-11T11:09:06.987Z"
+        },
+        {
+            "id": 748056798,
+            "user": "user",
+            "text": "My air is being so rude.",
+            "created_at": "2026-06-11T11:09:10.643Z"
+        },
+        {
+            "id": 748056822,
+            "user": "assistant",
+            "text": "I'm just following instructions. Please go home.",
+            "created_at": "2026-06-11T11:09:12.677Z"
+        },
+        {
+            "id": 748056867,
+            "user": "user",
+            "text": "No. I guess I",
+            "created_at": "2026-06-11T11:09:19.412Z"
+        }
+    ],
+    "corrected_duration": "22",
+    "end_at": "2026-06-11T11:09:19.000Z",
+    "dispositions": [],
+    "voice_id": "2cc39317-4835-4cbc-b625-fbf6b7f5c5cb"
+}

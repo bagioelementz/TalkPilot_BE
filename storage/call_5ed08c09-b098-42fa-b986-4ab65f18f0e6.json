@@ -1,0 +1,148 @@
+{
+    "call_id": "5ed08c09-b098-42fa-b986-4ab65f18f0e6",
+    "c_id": "5ed08c09-b098-42fa-b986-4ab65f18f0e6",
+    "created_at": "2026-06-16T10:58:57.369Z",
+    "updated_at": "2026-06-16T11:01:10.494Z",
+    "call_length": null,
+    "to": "+919061975879",
+    "from": "+15672218846",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Tuesday, June 16, 2026 3:59 AM",
+        "now_utc": "Tuesday, June 16, 2026 10:59 AM",
+        "short_from": "5672218846",
+        "short_to": "9061975879",
+        "from": "+15672218846",
+        "to": "+919061975879",
+        "call_id": "5ed08c09-b098-42fa-b986-4ab65f18f0e6",
+        "phone_number": "+919061975879",
+        "country": "IN",
+        "state": "Kerala",
+        "language": "English",
+        "timestamp": "2026-06-16T03:59:16-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-16T10:59:16.082Z",
+    "record": false,
+    "recording_url": null,
+    "summary": null,
+    "local_dialing": false,
+    "price": 0,
+    "call_ended_by": "USER",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Hello, I'm Avira, the AI conversation agent from Task Meister. \n user: Hello? \n assistant: Guten Morgen. Ich rufe im Auftrag von einem Kunden, Herrn Ronaldo. Er hat ein Problem mit einem undichten Toilettrohr und benötigt einen Klempner in Berlin. Können Sie helfen? \n user: Yeah. \n assistant: Super. Es ist ein undichtes Rohr an der Toilette. Wir müssen das dringend beheben lassen. Wann könnten Sie morgen kommen? Der Kunde benötigt den Service bis morgen um zehn Uhr morgens. \n user: Before \n assistant: Verstanden, vor zehn Uhr. Können Sie einen Termin für morgen früh bestätigen? Und was würde das ungefähr kosten? Das Budget liegt bei unter sechshundert Euro. \n assistant: Hallo? Sind Sie noch dran? \n user: Yeah. \n assistant: Können Sie uns einen Preis nennen? Wir haben ein Budget von sechshundert Euro für die Reparatur. \n user: Yeah. Get now. \n assistant: Entschuldigung, ich habe Sie nicht ganz verstanden. Meinen Sie, Sie können das Preisangebot jetzt geben? \n user: It's ten in an f and then for bint \n assistant: Entschuldigung, die Verbindung ist etwas schlecht. Können Sie den Preis bitte wiederholen oder buchstabieren? Es geht um das Budget von sechshundert Euro. \n ",
+    "transcripts": [
+        {
+            "id": 756953455,
+            "user": "assistant",
+            "text": "Hello, I'm Avira, the AI conversation agent from Task Meister.",
+            "created_at": "2026-06-16T10:59:17.604Z"
+        },
+        {
+            "id": 756953506,
+            "user": "user",
+            "text": "Hello?",
+            "created_at": "2026-06-16T10:59:24.494Z"
+        },
+        {
+            "id": 756953543,
+            "user": "assistant",
+            "text": "Guten Morgen. Ich rufe im Auftrag von einem Kunden, Herrn Ronaldo. Er hat ein Problem mit einem undichten Toilettrohr und benötigt einen Klempner in Berlin. Können Sie helfen?",
+            "created_at": "2026-06-16T10:59:28.809Z"
+        },
+        {
+            "id": 756953628,
+            "user": "user",
+            "text": "Yeah.",
+            "created_at": "2026-06-16T10:59:42.690Z"
+        },
+        {
+            "id": 756953655,
+            "user": "assistant",
+            "text": "Super. Es ist ein undichtes Rohr an der Toilette. Wir müssen das dringend beheben lassen. Wann könnten Sie morgen kommen? Der Kunde benötigt den Service bis morgen um zehn Uhr morgens.",
+            "created_at": "2026-06-16T10:59:46.349Z"
+        },
+        {
+            "id": 756953739,
+            "user": "user",
+            "text": "Before",
+            "created_at": "2026-06-16T11:00:00.382Z"
+        },
+        {
+            "id": 756953749,
+            "user": "assistant",
+            "text": "Verstanden, vor zehn Uhr. Können Sie einen Termin für morgen früh bestätigen? Und was würde das ungefähr kosten? Das Budget liegt bei unter sechshundert Euro.",
+            "created_at": "2026-06-16T11:00:02.078Z"
+        },
+        {
+            "id": 756953845,
+            "user": "assistant",
+            "text": "Hallo? Sind Sie noch dran?",
+            "created_at": "2026-06-16T11:00:18.690Z"
+        },
+        {
+            "id": 756953904,
+            "user": "user",
+            "text": "Yeah.",
+            "created_at": "2026-06-16T11:00:28.434Z"
+        },
+        {
+            "id": 756953915,
+            "user": "assistant",
+            "text": "Können Sie uns einen Preis nennen? Wir haben ein Budget von sechshundert Euro für die Reparatur.",
+            "created_at": "2026-06-16T11:00:30.540Z"
+        },
+        {
+            "id": 756953979,
+            "user": "user",
+            "text": "Yeah. Get now.",
+            "created_at": "2026-06-16T11:00:39.701Z"
+        },
+        {
+            "id": 756953994,
+            "user": "assistant",
+            "text": "Entschuldigung, ich habe Sie nicht ganz verstanden. Meinen Sie, Sie können das Preisangebot jetzt geben?",
+            "created_at": "2026-06-16T11:00:42.288Z"
+        },
+        {
+            "id": 756954075,
+            "user": "user",
+            "text": "It's ten in an f and then for bint",
+            "created_at": "2026-06-16T11:00:51.258Z"
+        },
+        {
+            "id": 756954104,
+            "user": "assistant",
+            "text": "Entschuldigung, die Verbindung ist etwas schlecht. Können Sie den Preis bitte wiederholen oder buchstabieren? Es geht um das Budget von sechshundert Euro.",
+            "created_at": "2026-06-16T11:00:54.047Z"
+        }
+    ],
+    "corrected_duration": "109",
+    "end_at": "2026-06-16T11:01:04.000Z",
+    "dispositions": [],
+    "voice_id": "2cc39317-4835-4cbc-b625-fbf6b7f5c5cb"
+}

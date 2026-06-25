@@ -1,0 +1,135 @@
+{
+    "call_id": "f9ead269-291c-4a7d-9387-5f50f970b432",
+    "c_id": "f9ead269-291c-4a7d-9387-5f50f970b432",
+    "created_at": "2026-06-17T09:28:33.025Z",
+    "updated_at": "2026-06-17T09:29:25.216Z",
+    "call_length": 0.566666666666667,
+    "to": "+918590421739",
+    "from": "+12545033788",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Wednesday, June 17, 2026 2:28 AM",
+        "now_utc": "Wednesday, June 17, 2026 9:28 AM",
+        "short_from": "2545033788",
+        "short_to": "8590421739",
+        "from": "+12545033788",
+        "to": "+918590421739",
+        "call_id": "f9ead269-291c-4a7d-9387-5f50f970b432",
+        "phone_number": "+918590421739",
+        "country": "IN",
+        "language": "English",
+        "timestamp": "2026-06-17T02:28:45-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-17T09:28:44.000Z",
+    "record": false,
+    "recording_url": null,
+    "summary": "The user received a check-in call from Avira, the AI conversation agent from Task Meister. The conversation was brief and rocky, with the user responding negatively to Avira's attempts at small talk. The call ended abruptly after the user expressed frustration with the conversation, and Avira politely ended the call, wishing the user a wonderful day. Overall, the call appeared to be unsuccessful in achieving its intended purpose of checking in with the user.",
+    "local_dialing": false,
+    "price": 0.08,
+    "call_ended_by": "ASSISTANT",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Hello, I'm Avira, the AI conversation agent from Task Meister. \n user: Okay. \n assistant: I'm here to check in and see how your day is going so far. \n user: No. \n assistant: I understand. Well, I hope your d- \n user: What about \n assistant: I was just going to say I hope your day gets better. Ha- \n user: what the hell are you talking? \n assistant: I apologize for the confusion. I was just checking in to see how you were doing. I'll let you go now. Have a wonderful day. \n user: Okay. Thank you. Goodbye. \n assistant: Goodbye. \n agent-action: Ended call \n ",
+    "transcripts": [
+        {
+            "id": 759409317,
+            "user": "assistant",
+            "text": "Hello, I'm Avira, the AI conversation agent from Task Meister.",
+            "created_at": "2026-06-17T09:28:46.845Z"
+        },
+        {
+            "id": 759409344,
+            "user": "user",
+            "text": "Okay.",
+            "created_at": "2026-06-17T09:28:52.609Z"
+        },
+        {
+            "id": 759409352,
+            "user": "assistant",
+            "text": "I'm here to check in and see how your day is going so far.",
+            "created_at": "2026-06-17T09:28:56.002Z"
+        },
+        {
+            "id": 759409377,
+            "user": "user",
+            "text": "No.",
+            "created_at": "2026-06-17T09:29:00.690Z"
+        },
+        {
+            "id": 759409386,
+            "user": "assistant",
+            "text": "I understand. Well, I hope your d-",
+            "created_at": "2026-06-17T09:29:03.411Z"
+        },
+        {
+            "id": 759409390,
+            "user": "user",
+            "text": "What about",
+            "created_at": "2026-06-17T09:29:03.951Z"
+        },
+        {
+            "id": 759409402,
+            "user": "assistant",
+            "text": "I was just going to say I hope your day gets better. Ha-",
+            "created_at": "2026-06-17T09:29:06.762Z"
+        },
+        {
+            "id": 759409410,
+            "user": "user",
+            "text": "what the hell are you talking?",
+            "created_at": "2026-06-17T09:29:07.420Z"
+        },
+        {
+            "id": 759409418,
+            "user": "assistant",
+            "text": "I apologize for the confusion. I was just checking in to see how you were doing. I'll let you go now. Have a wonderful day.",
+            "created_at": "2026-06-17T09:29:09.466Z"
+        },
+        {
+            "id": 759409456,
+            "user": "user",
+            "text": "Okay. Thank you. Goodbye.",
+            "created_at": "2026-06-17T09:29:16.453Z"
+        },
+        {
+            "id": 759409462,
+            "user": "assistant",
+            "text": "Goodbye.",
+            "created_at": "2026-06-17T09:29:17.451Z"
+        },
+        {
+            "id": 759409463,
+            "user": "agent-action",
+            "text": "Ended call",
+            "created_at": "2026-06-17T09:29:17.451Z"
+        }
+    ],
+    "corrected_duration": "34",
+    "end_at": "2026-06-17T09:29:18.000Z",
+    "dispositions": [],
+    "voice_id": "2cc39317-4835-4cbc-b625-fbf6b7f5c5cb"
+}

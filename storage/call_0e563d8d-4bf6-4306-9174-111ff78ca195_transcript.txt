@@ -1,0 +1,16 @@
+=== CALL TRANSCRIPT ===
+Call ID: 0e563d8d-4bf6-4306-9174-111ff78ca195
+To: +919061975879
+Date: 2026-06-22T10:47:28.640Z
+Duration: 0.65 mins
+Summary: The caller, representing TaskMeister, mistakenly contacted a user who identified themselves as a developer, in search of a plumber in Berlin to fix a pipe leak. The call was promptly ended after the confusion was realized, with the caller apologizing for the disturbance.
+========================
+
+Assistant: Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schönen Tag. Hätten Sie kurz einen Moment Zeit?
+User: Hello.
+Assistant: Hello! I'm calling on behalf of a client who needs a plumber in Berlin for a pipe leak. Do you have availability for this type of job?
+User: Uh, yes, I'm a developer.
+Assistant: Oh, I apologize for the confusion. I must have the wrong number. I was looking for a plumber in Berlin. Sorry to disturb you. Have a nice day.
+User: Hello.
+Assistant: Thank you for your time and have a nice day. Goodbye.
+Agent-action: Ended call

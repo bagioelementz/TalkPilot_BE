@@ -1,0 +1,24 @@
+=== CALL TRANSCRIPT ===
+Call ID: 0422f027-ab7b-47fa-a9e0-e5a091c36961
+To: +917094097739
+Date: 2026-06-24T06:11:28.880Z
+Duration: 1.73333333333333 mins
+Summary: The caller, Avira from TaskMeister, contacted a potential service provider regarding a plumbing job in Berlin to fix a leaking pipe in a kitchen. The estimated budget for the job was 600 EUR and needed to be completed by next Monday at 10:00 AM. Initially, the service provider expressed interest in taking the job, but eventually stated they were not available, leading to the call being ended. Despite initial interest, the service provider's unavailability resulted in no agreement being reached.
+========================
+
+User: Oh. 
+Assistant: Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schonen Tag. Ich rufe bezuglich einer Klempner-Serviceanfrage in Berlin an. Hatten Sie kurz einen Moment Zeit?
+User: I don't understand.
+Assistant: Hello! This is Avira from TaskMeister. I hope you're having a nice day. I'm calling regarding a plumbing service request in Berlin. Do you have a moment to speak?
+User: Die, animal universe.
+Assistant: I'm sorry, I'm not sure I understood that correctly. I'm calling on behalf of a client who needs help with a leaking pipe in their kitchen. The service is needed by next Monday at 10:00 AM, and the estimated budget is around 600 EUR. Are you available and interested in taking the job?
+User: Yeah, I am interested.
+Assistant: Great! Could you please let me know your availability and if you have any specific requirements before I share the client's details with you?
+User: Oh, thank you.
+Assistant: You're welcome. So, when are you available to take a look at the leaking pipe next Monday?
+User: You know, I am not adamant.
+Assistant: I understand. Since the client needs the service done by next Monday at 10:00 AM, would you be able to schedule a visit before then? Perhaps over the weekend or earlier on Monday?
+User: No, I'm not available.
+Assistant: Okay, I understand. Thank you for your time anyway. Have a nice day. Goodbye.
+Assistant: Thank you for your time and have a nice day. Goodbye.
+Agent-action: Ended call

@@ -1,0 +1,17 @@
+=== CALL TRANSCRIPT ===
+Call ID: c8be175a-dfe2-425a-8473-bd00af81bcc5
+To: +919061975879
+Date: 2026-06-11T11:13:59.536Z
+Duration: 0.35 mins
+Summary: The caller, Rishi, received a brief message from Avira, the AI conversation agent, instructing him to go home, after which the call was promptly ended.
+========================
+
+Assistant: Hello, I'm Avira, the AI conversation agent from Task Meister.
+User: Hello?
+Assistant: Hi, is this Rishi?
+User: Yes?
+Assistant: I was told to tell you to go home.
+User: Okay.
+Agent-action: Ended call
+Assistant: Alright, take care.
+Agent-action: Ended call

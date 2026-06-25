@@ -1,0 +1,100 @@
+{
+    "call_id": "6aefe41b-49a9-4b41-84fb-5cf2c94fd89b",
+    "c_id": "6aefe41b-49a9-4b41-84fb-5cf2c94fd89b",
+    "created_at": "2026-06-22T10:37:18.457Z",
+    "updated_at": "2026-06-22T10:38:18.795Z",
+    "call_length": 0.666666666666667,
+    "to": "+919061975879",
+    "from": "+14057192112",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Monday, June 22, 2026 3:37 AM",
+        "now_utc": "Monday, June 22, 2026 10:37 AM",
+        "short_from": "4057192112",
+        "short_to": "9061975879",
+        "from": "+14057192112",
+        "to": "+919061975879",
+        "call_id": "6aefe41b-49a9-4b41-84fb-5cf2c94fd89b",
+        "phone_number": "+919061975879",
+        "country": "IN",
+        "state": "Kerala",
+        "language": "German",
+        "timestamp": "2026-06-22T03:37:31-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-22T10:37:31.000Z",
+    "record": false,
+    "recording_url": null,
+    "summary": "Ein Kundenvertreter von TaskMeister, Avira, kontaktiert einen potenziellen Dienstleister, um zu erfahren, ob dieser einen Auftrag als Klempner in Berlin übernehmen kann, da ein Kunde aufgrund eines Rohrlecks dringend Hilfe benötigt. Der Dienstleister bestätigt, dass das Gespräch auf Deutsch weitergeführt werden soll. Eine endgültige Zusage oder Ablehnung des Auftrags durch den Dienstleister wird im bereitgestellten Transkript nicht gemacht.",
+    "local_dialing": false,
+    "price": 0.094,
+    "call_ended_by": "USER",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schönen Tag. Hätten Sie kurz einen Moment Zeit? \n assistant: Hallo? Ist Rishi am A- \n user: Hallo? \n assistant: Hallo! Hier ist Avira von TaskMeister. Ich rufe Sie an, weil ein Kunde einen Klempner in Berlin benötigt, da es ein Rohrleck gibt. Können Sie dabei helfen? \n user: Und kein Englisch. \n assistant: Verstanden. Ich spreke weiter Deutsch. Ein Kunde benötigt dringend einen Klempner in Berlin wegen eines Rohrlecks. Können Sie diesen Auftrag übernehmen? \n ",
+    "transcripts": [
+        {
+            "id": 767797460,
+            "user": "assistant",
+            "text": "Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schönen Tag. Hätten Sie kurz einen Moment Zeit?",
+            "created_at": "2026-06-22T10:37:37.299Z"
+        },
+        {
+            "id": 767797752,
+            "user": "assistant",
+            "text": "Hallo? Ist Rishi am A-",
+            "created_at": "2026-06-22T10:37:47.604Z"
+        },
+        {
+            "id": 767797753,
+            "user": "user",
+            "text": "Hallo?",
+            "created_at": "2026-06-22T10:37:47.604Z"
+        },
+        {
+            "id": 767798008,
+            "user": "assistant",
+            "text": "Hallo! Hier ist Avira von TaskMeister. Ich rufe Sie an, weil ein Kunde einen Klempner in Berlin benötigt, da es ein Rohrleck gibt. Können Sie dabei helfen?",
+            "created_at": "2026-06-22T10:37:57.435Z"
+        },
+        {
+            "id": 767798125,
+            "user": "user",
+            "text": "Und kein Englisch.",
+            "created_at": "2026-06-22T10:38:01.047Z"
+        },
+        {
+            "id": 767798358,
+            "user": "assistant",
+            "text": "Verstanden. Ich spreke weiter Deutsch. Ein Kunde benötigt dringend einen Klempner in Berlin wegen eines Rohrlecks. Können Sie diesen Auftrag übernehmen?",
+            "created_at": "2026-06-22T10:38:09.539Z"
+        }
+    ],
+    "corrected_duration": "40",
+    "end_at": "2026-06-22T10:38:11.000Z",
+    "dispositions": [],
+    "voice_id": "a24c43d3-f448-4fea-a498-a9287f7cabf3"
+}

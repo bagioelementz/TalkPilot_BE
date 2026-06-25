@@ -1,0 +1,19 @@
+=== CALL TRANSCRIPT ===
+Call ID: 698b37aa-e9b8-40b3-a085-fdb2332eeb2b
+To: +919061975879
+Date: 2026-06-19T04:16:18.052Z
+Duration: 1.25 mins
+Summary: The caller, Avira from Task Meister, contacted a user on behalf of a client named Jyothish to request a plumber in Berlin for an urgent task that needs to be completed by Monday at 9:00 AM. The client is willing to pay 600 Euros for the service. However, the call was ended abruptly without the user providing a clear response or confirmation of availability for the task.
+========================
+
+Assistant: Hello, I'm Avira, the AI conversation agent from Task Meister.
+User: Hello, Avira? It's a pleasure to meet you. Welcome. How can I help you and the TaskRasmaster team today?
+Assistant: Guten Tag. Ich rufe im Auftrag eines Kunden namens Jyothish an. Er benötigt dringend einen Klempner in Berlin. Der Auftrag muss bis Montag um neun Uhr morgens erledigt sein. Er ist bereit, sechshundert Euro zu zahlen. Haben Sie an diesem Termin Zeit?
+User: That's Kingston. I
+Assistant: Entschuldigung, ich habe den Namen nicht ganz verstanden. Können Sie das bitte wiederholen?
+User: Time for them, then I'm allowed to take yours.
+Assistant: Verstehe. Können Sie also den Klempnerauftrag für Montag um neun Uhr in Berlin übernehmen? Es geht um einen Notfall und mein Kunde bietet sechshundert Euro.
+Assistant: Hallo? Sind Sie noch am Apparat?
+Assistant: Vielen Dank für Ihre Zeit. Auf-
+Agent-action: Ended call
+Agent-action: Ended call

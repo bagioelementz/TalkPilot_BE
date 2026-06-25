@@ -1,0 +1,106 @@
+{
+    "call_id": "f1015f6f-4855-428c-9705-980fb072704d",
+    "c_id": "f1015f6f-4855-428c-9705-980fb072704d",
+    "created_at": "2026-06-22T10:40:46.531Z",
+    "updated_at": "2026-06-22T10:41:31.114Z",
+    "call_length": 0.466666666666667,
+    "to": "+919061975879",
+    "from": "+15419826846",
+    "inbound": false,
+    "max_duration": 10,
+    "metadata": {},
+    "variables": {
+        "now": "Monday, June 22, 2026 3:40 AM",
+        "now_utc": "Monday, June 22, 2026 10:40 AM",
+        "short_from": "5419826846",
+        "short_to": "9061975879",
+        "from": "+15419826846",
+        "to": "+919061975879",
+        "call_id": "f1015f6f-4855-428c-9705-980fb072704d",
+        "phone_number": "+919061975879",
+        "country": "IN",
+        "state": "Kerala",
+        "language": "German",
+        "timestamp": "2026-06-22T03:40:55-07:00",
+        "timezone": "America/Los_Angeles"
+    },
+    "start_time": null,
+    "completed": true,
+    "queue_status": "complete",
+    "error_message": null,
+    "answered_by": "human",
+    "batch_id": null,
+    "started_at": "2026-06-22T10:40:55.000Z",
+    "record": false,
+    "recording_url": null,
+    "summary": "Der Anrufer, Avira von TaskMeister, kontaktierte den Nutzer, um ihn über eine Gelegenheit zu informieren, als Klempner für einen Kunden in Berlin tätig zu werden, der Hilfe bei der Reparatur eines undichten Rohrs benötigt. Der Nutzer unterbrach jedoch mehrmals und es konnte keine abschließende Vereinbarung oder weitere Details besprochen werden.",
+    "local_dialing": false,
+    "price": 0.066,
+    "call_ended_by": "USER",
+    "analysis": null,
+    "analysis_schema": null,
+    "transferred_to": null,
+    "transferred_at": null,
+    "pathway_tags": [],
+    "status": "completed",
+    "recording_expiration": null,
+    "pathway_id": null,
+    "citation_schema_ids": [],
+    "disposition_ids": [],
+    "warm_transfer_call": null,
+    "is_proxy_agent_call": false,
+    "persona_id": null,
+    "contact_id": null,
+    "warm_transfer_calls": null,
+    "pathway_version": null,
+    "pathway_logs": null,
+    "concatenated_transcript": "assistant: Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schönen Tag. Hätten Sie kurz einen Moment Zeit? \n user: Hallo? \n assistant: Hallo! Ich rufe Sie im Auftrag von TaskMeister an. Ein Kunde benötigt einen Klempner in- \n user: Damit \n assistant: Entschu- \n user: keine \n assistant: Entschuldigung, ich rufe Sie an, weil ein Kunde einen Klempner in Berlin für ein undichtes Rohr benötigt. \n ",
+    "transcripts": [
+        {
+            "id": 767802073,
+            "user": "assistant",
+            "text": "Hallo! Hier spricht Avira von TaskMeister. Ich hoffe, Sie haben einen schönen Tag. Hätten Sie kurz einen Moment Zeit?",
+            "created_at": "2026-06-22T10:40:59.290Z"
+        },
+        {
+            "id": 767802253,
+            "user": "user",
+            "text": "Hallo?",
+            "created_at": "2026-06-22T10:41:06.469Z"
+        },
+        {
+            "id": 767802352,
+            "user": "assistant",
+            "text": "Hallo! Ich rufe Sie im Auftrag von TaskMeister an. Ein Kunde benötigt einen Klempner in-",
+            "created_at": "2026-06-22T10:41:10.777Z"
+        },
+        {
+            "id": 767802405,
+            "user": "user",
+            "text": "Damit",
+            "created_at": "2026-06-22T10:41:12.690Z"
+        },
+        {
+            "id": 767802442,
+            "user": "assistant",
+            "text": "Entschu-",
+            "created_at": "2026-06-22T10:41:14.053Z"
+        },
+        {
+            "id": 767802478,
+            "user": "user",
+            "text": "keine",
+            "created_at": "2026-06-22T10:41:15.695Z"
+        },
+        {
+            "id": 767802519,
+            "user": "assistant",
+            "text": "Entschuldigung, ich rufe Sie an, weil ein Kunde einen Klempner in Berlin für ein undichtes Rohr benötigt.",
+            "created_at": "2026-06-22T10:41:17.953Z"
+        }
+    ],
+    "corrected_duration": "28",
+    "end_at": "2026-06-22T10:41:23.000Z",
+    "dispositions": [],
+    "voice_id": "a4525de6-7c12-4df8-a1cb-90651de9323d"
+}
